@@ -1,8 +1,12 @@
 {
-  "name": "git-curator",
+  "name": "awesome-daily-opensource",
   "version": "1.0.0",
   "description": "Daily automated curation of the top 15 open-source repositories with historical archiving and GitFeed sync.",
   "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lulushuz/Awesome-Daily-OpenSource.git"
+  },
   "scripts": {
     "start": "tsx src/index.ts",
     "curate": "tsx src/index.ts",
@@ -10,13 +14,13 @@
   },
   "keywords": [
     "github",
-    "curator",
+    "awesome",
     "trending",
     "open-source",
     "automation",
     "daily"
   ],
-  "author": "lulushu",
+  "author": "lulushu (https://github.com/lulushuz)",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.10.1",

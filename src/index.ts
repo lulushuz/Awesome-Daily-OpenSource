@@ -330,7 +330,7 @@ const SEED_FALLBACK: RawGitHubRepo[] = [
 
 async function main() {
   console.log("==================================================");
-  console.log("🚀 GitCurator: Günlük 15 Açık Kaynak Radarı Başlatıldı");
+  console.log("🚀 Awesome-Daily-OpenSource: Günlük 15 Açık Kaynak Radarı Başlatıldı");
   console.log("==================================================");
 
   const token = process.env.GITHUB_TOKEN;

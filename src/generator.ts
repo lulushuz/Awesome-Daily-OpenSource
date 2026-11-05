@@ -122,9 +122,9 @@ function renderCurationMarkdown(curation: DailyCuration, isRoot: boolean): strin
 }
 
 function renderRootReadme(baseDir: string, latestCuration: DailyCuration): string {
-  let md = `# ⚡ GitCurator — Günlük 15 Açık Kaynak Proje Radarı\n\n`;
+  let md = `# ⚡ Awesome-Daily-OpenSource — Günlük 15 Açık Kaynak Proje Radarı\n\n`;
   md += `> **Her gece 00:00 UTC'de** GitHub'da son 30 gün içinde ivmelenen en kaliteli **15 bağımsız açık kaynak projeyi** otonom olarak keşfeden, filtreleyen ve arşivleyen günlük teknoloji bülteni.\n\n`;
-  md += `[![Daily Curation](https://github.com/lulushu/git-curator/actions/workflows/daily-curate.yml/badge.svg)](https://github.com/lulushu/git-curator/actions)\n`;
+  md += `[![Daily Curation](https://github.com/lulushuz/Awesome-Daily-OpenSource/actions/workflows/daily-curate.yml/badge.svg)](https://github.com/lulushuz/Awesome-Daily-OpenSource/actions)\n`;
   md += `[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)\n`;
   md += `[![Curated Repos](https://img.shields.io/badge/G%C3%BCnl%C3%BCk-15%20Repo-success?style=flat-square)](archives/)\n\n`;
 
@@ -169,7 +169,7 @@ function renderRootReadme(baseDir: string, latestCuration: DailyCuration): strin
   md += `GitCurator tarafından üretilen \`data/latest.json\` dosyası [GitFeed](https://github.com/lulushu/git-feed) web platformuna doğrudan taze veri pompalamak üzere API standartlarına uygun yapılandırılmıştır.\n\n`;
 
   md += `---\n\n`;
-  md += `*Otonom olarak her gün 00:00 UTC'de [GitHub Actions](https://github.com/lulushu/git-curator/actions) ile güncellenir.* 🤖\n`;
+  md += `*Otonom olarak her gün 00:00 UTC'de [GitHub Actions](https://github.com/lulushuz/Awesome-Daily-OpenSource/actions) ile güncellenir.* 🤖\n`;
 
   return md;
 }

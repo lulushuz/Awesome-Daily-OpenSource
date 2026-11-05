@@ -3,7 +3,7 @@
   "year": "2026",
   "month": "11",
   "monthName": "Kasim",
-  "timestamp": "2026-11-05T13:59:58.022Z",
+  "timestamp": "2026-11-05T14:09:14.467Z",
   "totalCount": 15,
   "categories": [
     {
@@ -124,7 +124,7 @@
           "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
           "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
           "primaryLanguage": "JavaScript",
-          "stars": 1286,
+          "stars": 1287,
           "forks": 837,
           "openIssues": 0,
           "licenseName": "MIT License",
@@ -215,8 +215,8 @@
           "pitch": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
           "repoUrl": "https://github.com/JuneYaooo/rea-video",
           "primaryLanguage": "Python",
-          "stars": 1766,
-          "forks": 247,
+          "stars": 1771,
+          "forks": 249,
           "openIssues": 1,
           "licenseName": "Apache License 2.0",
           "tags": [
@@ -230,7 +230,7 @@
           "categoryLabel": "🚀 Öne Çıkanlar",
           "curatorScore": 152,
           "createdAt": "2026-10-29T16:15:01Z",
-          "pushedAt": "2026-11-05T07:01:08Z"
+          "pushedAt": "2026-11-05T14:05:41Z"
         },
         {
           "id": "1420259750",
@@ -246,7 +246,7 @@
           "repoUrl": "https://github.com/DUNHKpcc/Claude-Guardian",
           "homepageUrl": "https://api.dpccgaming.xyz/guardian",
           "primaryLanguage": "Python",
-          "stars": 1754,
+          "stars": 1755,
           "forks": 232,
           "openIssues": 3,
           "licenseName": "GNU General Public License v3.0",
@@ -359,7 +359,7 @@
           "categoryLabel": "⚡ DevTools & Terminal",
           "curatorScore": 155,
           "createdAt": "2026-10-07T01:52:11Z",
-          "pushedAt": "2026-11-05T13:57:57Z"
+          "pushedAt": "2026-11-05T14:01:32Z"
         },
         {
           "id": "1430208916",
@@ -375,7 +375,7 @@
           "repoUrl": "https://github.com/man15h/tellyscope",
           "homepageUrl": "https://man15h.github.io/tellyscope/",
           "primaryLanguage": "Kotlin",
-          "stars": 1515,
+          "stars": 1517,
           "forks": 81,
           "openIssues": 31,
           "licenseName": "GNU General Public License v3.0",
@@ -413,7 +413,7 @@
           "homepageUrl": "https://oscar-soirey.github.io/Raven/",
           "primaryLanguage": "C",
           "stars": 1922,
-          "forks": 86,
+          "forks": 85,
           "openIssues": 8,
           "licenseName": "Apache License 2.0",
           "tags": [],
