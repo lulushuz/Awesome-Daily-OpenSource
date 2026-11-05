@@ -330,21 +330,21 @@ const SEED_FALLBACK: RawGitHubRepo[] = [
 
 async function main() {
   console.log("==================================================");
-  console.log("🚀 Awesome-Daily-OpenSource: Günlük 15 Açık Kaynak Radarı Başlatıldı");
+  console.log("🚀 Awesome-Daily-OpenSource: 15-Repo Daily Radar Started");
   console.log("==================================================");
 
   const token = process.env.GITHUB_TOKEN;
   if (!token) {
-    console.log("ℹ️  GITHUB_TOKEN tanımlanmadı; standart istek modu kullanılıyor.");
+    console.log("ℹ️  GITHUB_TOKEN not found; using unauthenticated request mode.");
   } else {
-    console.log("🔑 GITHUB_TOKEN tespit edildi; yetkili istek modu devrede.");
+    console.log("🔑 GITHUB_TOKEN detected; using authenticated request mode.");
   }
 
   let candidates = await fetchCandidates(token);
 
   // If rate limit or no results, use curated seed fallback to ensure guaranteed output
   if (candidates.length < 15) {
-    console.log(`⚠️  Yeterli aday bulunamadı (${candidates.length}/15). Küratör tohum havuzu ile takviye yapılıyor.`);
+    console.log(`⚠️  Insufficient candidates found (${candidates.length}/15). Supplementing from curated seed pool.`);
     const existingIds = new Set(candidates.map((c) => c.id));
     for (const seed of SEED_FALLBACK) {
       if (!existingIds.has(seed.id)) {
@@ -354,19 +354,19 @@ async function main() {
     }
   }
 
-  console.log("⚖️  Adaylar 7 katmanlı değerlendirme ve kategorizasyondan geçiriliyor...");
+  console.log("⚖️  Evaluating candidates through 7-stage quality filter & categorization...");
   const selectedRepos: CuratedRepo[] = categorizeAndSelect15(candidates);
 
-  console.log(`✨ Seçilen 15 Repo:`);
+  console.log(`✨ Selected 15 Repositories:`);
   selectedRepos.forEach((r, idx) => {
     console.log(`  ${String(idx + 1).padStart(2, " ")}. [${r.categoryLabel}] ${r.fullName} (⭐ ${r.stars} | ${r.primaryLanguage})`);
   });
 
-  console.log("\n📦 Arşiv ve README belgeleri üretiliyor...");
+  console.log("\n📦 Generating archives, data, and minimal README.md...");
   generateDailyArtifacts(projectRoot, selectedRepos);
 
   console.log("\n==================================================");
-  console.log("🎉 Günlük kürasyon başarıyla tamamlandı!");
+  console.log("🎉 Daily curation finished successfully!");
   console.log("==================================================");
 }
 

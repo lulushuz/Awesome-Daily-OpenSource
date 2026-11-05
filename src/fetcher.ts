@@ -39,23 +39,23 @@ export async function fetchCandidates(token?: string): Promise<RawGitHubRepo[]> 
   const date30DaysAgo = getIsoDateDaysAgo(30);
   const date3DaysAgo = getIsoDateDaysAgo(3);
 
-  console.log("🔍 GitHub API üzerinden son dönemin açık kaynak projeleri taranıyor...");
+  console.log("🔍 Scanning GitHub API for trending and fast-rising open source repos...");
 
   const queries = [
-    // 1. Son 14 günde açılmış ve yıldızlanan taze projeler
+    // 1. Fresh repositories created in the last 14 days gaining stars
     `created:>${date14DaysAgo} stars:15..1500 fork:false archived:false`,
-    // 2. Son 3 günde aktif commit almış ve büyüyen repolar
+    // 2. Repos pushed recently with high momentum
     `pushed:>${date3DaysAgo} created:>${date30DaysAgo} stars:25..2000 fork:false archived:false`,
-    // 3. AI / LLM / Agent odaklı yeni açık kaynak projeler
+    // 3. AI / LLM / Agent focused new open source tools
     `(topic:llm OR topic:ai OR topic:agent) created:>${date30DaysAgo} stars:>15 fork:false archived:false`,
-    // 4. Rust, Go, Zig ve CLI odaklı modern sistem araçları
+    // 4. Rust, Go, Zig and CLI focused modern systems tools
     `(language:rust OR language:go OR language:zig) created:>${date30DaysAgo} stars:>15 fork:false archived:false`,
   ];
 
   const candidateMap = new Map<number, RawGitHubRepo>();
 
   for (const q of queries) {
-    console.log(`  -> Sorgu: ${q.slice(0, 60)}...`);
+    console.log(`  -> Query: ${q.slice(0, 60)}...`);
     const items = await fetchFromGitHubSearch(q, token);
     for (const item of items) {
       if (!candidateMap.has(item.id)) {
@@ -69,6 +69,6 @@ export async function fetchCandidates(token?: string): Promise<RawGitHubRepo[]> 
   }
 
   const result = Array.from(candidateMap.values());
-  console.log(`✅ Kalite filtresinden geçen aday havuzu: ${result.length} repo.`);
+  console.log(`✅ Passed quality filter: ${result.length} candidate repos.`);
   return result;
 }

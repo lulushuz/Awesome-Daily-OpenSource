@@ -2,14 +2,14 @@
   "date": "2026-11-05",
   "year": "2026",
   "month": "11",
-  "monthName": "Kasim",
-  "timestamp": "2026-11-05T14:09:14.467Z",
+  "monthName": "November",
+  "timestamp": "2026-11-05T14:29:27.311Z",
   "totalCount": 15,
   "categories": [
     {
       "id": "top_pick",
-      "title": "🏆 Günün En İyileri (Top Picks)",
-      "description": "Günün en yüksek skor alan, toplulukta en hızlı ivmelenen bağımsız araçları.",
+      "title": "🏆 Top Picks",
+      "description": "The fastest-accelerating, highest-impact open-source tools of the day.",
       "repos": [
         {
           "id": "1413187188",
@@ -37,7 +37,7 @@
             "email-marketing"
           ],
           "category": "top_pick",
-          "categoryLabel": "🏆 Günün En İyileri",
+          "categoryLabel": "🏆 Top Picks",
           "curatorScore": 165,
           "createdAt": "2026-10-10T12:55:36Z",
           "pushedAt": "2026-11-05T09:38:09Z"
@@ -56,7 +56,7 @@
           "repoUrl": "https://github.com/Caho1/open-claude-ui",
           "homepageUrl": "https://openclaudeui.com",
           "primaryLanguage": "TypeScript",
-          "stars": 1693,
+          "stars": 1694,
           "forks": 318,
           "openIssues": 0,
           "licenseName": "MIT License",
@@ -68,7 +68,7 @@
             "framer-motion"
           ],
           "category": "top_pick",
-          "categoryLabel": "🏆 Günün En İyileri",
+          "categoryLabel": "🏆 Top Picks",
           "curatorScore": 163,
           "createdAt": "2026-10-14T14:05:05Z",
           "pushedAt": "2026-11-05T12:33:42Z"
@@ -99,7 +99,7 @@
             "onnx"
           ],
           "category": "top_pick",
-          "categoryLabel": "🏆 Günün En İyileri",
+          "categoryLabel": "🏆 Top Picks",
           "curatorScore": 159,
           "createdAt": "2026-10-13T11:07:11Z",
           "pushedAt": "2026-11-04T19:16:28Z"
@@ -108,8 +108,8 @@
     },
     {
       "id": "ai_ml",
-      "title": "🤖 AI & Yapay Zeka",
-      "description": "Yerel modeller, RAG, agent çatıları ve LLM kütüphaneleri.",
+      "title": "🤖 AI & Machine Learning",
+      "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
       "repos": [
         {
           "id": "1432883796",
@@ -136,7 +136,7 @@
             "harness"
           ],
           "category": "ai_ml",
-          "categoryLabel": "🤖 AI & Yapay Zeka",
+          "categoryLabel": "🤖 AI & Machine Learning",
           "curatorScore": 157,
           "createdAt": "2026-10-25T06:06:02Z",
           "pushedAt": "2026-11-05T11:38:02Z"
@@ -155,7 +155,7 @@
           "repoUrl": "https://github.com/reason-machines/reason-network",
           "homepageUrl": "https://reasonmachines.com",
           "primaryLanguage": "Rust",
-          "stars": 1523,
+          "stars": 1524,
           "forks": 132,
           "openIssues": 33,
           "licenseName": "Apache License 2.0",
@@ -167,7 +167,7 @@
             "coding-agents"
           ],
           "category": "ai_ml",
-          "categoryLabel": "🤖 AI & Yapay Zeka",
+          "categoryLabel": "🤖 AI & Machine Learning",
           "curatorScore": 156,
           "createdAt": "2026-10-16T15:34:34Z",
           "pushedAt": "2026-11-05T05:44:46Z"
@@ -185,8 +185,8 @@
           "pitch": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
           "repoUrl": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
           "primaryLanguage": "Python",
-          "stars": 1947,
-          "forks": 196,
+          "stars": 1949,
+          "forks": 197,
           "openIssues": 4,
           "licenseName": "MIT License",
           "tags": [
@@ -197,7 +197,7 @@
             "family-history"
           ],
           "category": "ai_ml",
-          "categoryLabel": "🤖 AI & Yapay Zeka",
+          "categoryLabel": "🤖 AI & Machine Learning",
           "curatorScore": 152,
           "createdAt": "2026-10-25T10:05:56Z",
           "pushedAt": "2026-11-04T15:05:57Z"
@@ -215,8 +215,8 @@
           "pitch": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
           "repoUrl": "https://github.com/JuneYaooo/rea-video",
           "primaryLanguage": "Python",
-          "stars": 1771,
-          "forks": 249,
+          "stars": 1790,
+          "forks": 254,
           "openIssues": 1,
           "licenseName": "Apache License 2.0",
           "tags": [
@@ -227,10 +227,10 @@
             "codex"
           ],
           "category": "ai_ml",
-          "categoryLabel": "🚀 Öne Çıkanlar",
+          "categoryLabel": "🚀 Featured",
           "curatorScore": 152,
           "createdAt": "2026-10-29T16:15:01Z",
-          "pushedAt": "2026-11-05T14:05:41Z"
+          "pushedAt": "2026-11-05T14:21:05Z"
         },
         {
           "id": "1420259750",
@@ -257,7 +257,7 @@
             "codex-skill"
           ],
           "category": "ai_ml",
-          "categoryLabel": "🚀 Öne Çıkanlar",
+          "categoryLabel": "🚀 Featured",
           "curatorScore": 150,
           "createdAt": "2026-10-15T06:09:53Z",
           "pushedAt": "2026-11-05T05:37:35Z"
@@ -275,8 +275,8 @@
           "pitch": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
           "repoUrl": "https://github.com/daveebbelaar/bama",
           "primaryLanguage": "Swift",
-          "stars": 1586,
-          "forks": 198,
+          "stars": 1587,
+          "forks": 199,
           "openIssues": 1,
           "licenseName": "MIT License",
           "tags": [
@@ -287,8 +287,8 @@
             "claude-code-plugin"
           ],
           "category": "ai_ml",
-          "categoryLabel": "🚀 Öne Çıkanlar",
-          "curatorScore": 149,
+          "categoryLabel": "🚀 Featured",
+          "curatorScore": 150,
           "createdAt": "2026-10-24T08:44:36Z",
           "pushedAt": "2026-11-05T13:09:56Z"
         }
@@ -296,8 +296,8 @@
     },
     {
       "id": "devtools_cli",
-      "title": "⚡ DevTools & Terminal Sistemleri",
-      "description": "Rust, Go, C ve Zig ile yazılmış hafif CLI ve altyapı araçları.",
+      "title": "⚡ DevTools & Systems",
+      "description": "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
       "repos": [
         {
           "id": "1426287665",
@@ -313,7 +313,7 @@
           "repoUrl": "https://github.com/indexable-inc/blaze",
           "homepageUrl": "https://ix.dev/blaze",
           "primaryLanguage": "Rust",
-          "stars": 1998,
+          "stars": 2000,
           "forks": 70,
           "openIssues": 493,
           "licenseName": "Apache License 2.0",
@@ -325,7 +325,7 @@
             "hot-reload"
           ],
           "category": "devtools_cli",
-          "categoryLabel": "⚡ DevTools & Terminal",
+          "categoryLabel": "⚡ DevTools & Systems",
           "curatorScore": 155,
           "createdAt": "2026-10-19T23:31:09Z",
           "pushedAt": "2026-11-05T10:15:17Z"
@@ -356,7 +356,7 @@
             "openclash"
           ],
           "category": "devtools_cli",
-          "categoryLabel": "⚡ DevTools & Terminal",
+          "categoryLabel": "⚡ DevTools & Systems",
           "curatorScore": 155,
           "createdAt": "2026-10-07T01:52:11Z",
           "pushedAt": "2026-11-05T14:01:32Z"
@@ -375,7 +375,7 @@
           "repoUrl": "https://github.com/man15h/tellyscope",
           "homepageUrl": "https://man15h.github.io/tellyscope/",
           "primaryLanguage": "Kotlin",
-          "stars": 1517,
+          "stars": 1518,
           "forks": 81,
           "openIssues": 31,
           "licenseName": "GNU General Public License v3.0",
@@ -386,7 +386,7 @@
             "privacy"
           ],
           "category": "devtools_cli",
-          "categoryLabel": "⚡ DevTools & Terminal",
+          "categoryLabel": "⚡ DevTools & Systems",
           "curatorScore": 151,
           "createdAt": "2026-10-22T19:51:46Z",
           "pushedAt": "2026-11-04T06:21:20Z"
@@ -395,8 +395,8 @@
     },
     {
       "id": "web_fullstack",
-      "title": "🌐 Web, Frontend & UI",
-      "description": "Modern framework'ler, arayüz bileşenleri ve API servisleri.",
+      "title": "🌐 Web & Fullstack",
+      "description": "Modern UI components, web frameworks, and backend services.",
       "repos": [
         {
           "id": "1411352230",
@@ -412,7 +412,7 @@
           "repoUrl": "https://github.com/oscar-soirey/Raven",
           "homepageUrl": "https://oscar-soirey.github.io/Raven/",
           "primaryLanguage": "C",
-          "stars": 1922,
+          "stars": 1923,
           "forks": 85,
           "openIssues": 8,
           "licenseName": "Apache License 2.0",
@@ -483,8 +483,8 @@
     },
     {
       "id": "hidden_gem",
-      "title": "💎 Gizli Cevherler (Hidden Gems)",
-      "description": "Henüz yıldızı az (< 250) ama fikri ve mühendisliği dahi bağımsız projeler.",
+      "title": "💎 Hidden Gems",
+      "description": "Early-stage repos (< 250 stars) with exceptional engineering and novelty.",
       "repos": []
     }
   ]
