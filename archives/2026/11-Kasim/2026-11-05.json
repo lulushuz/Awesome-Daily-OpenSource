@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-05",
+  "year": "2026",
+  "month": "11",
+  "monthName": "Kasim",
+  "timestamp": "2026-11-05T13:59:58.022Z",
+  "totalCount": 15,
+  "categories": [
+    {
+      "id": "top_pick",
+      "title": "🏆 Günün En İyileri (Top Picks)",
+      "description": "Günün en yüksek skor alan, toplulukta en hızlı ivmelenen bağımsız araçları.",
+      "repos": [
+        {
+          "id": "1413187188",
+          "name": "mailcheap",
+          "fullName": "marclou/mailcheap",
+          "owner": {
+            "username": "marclou",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12645328?v=4",
+            "githubUrl": "https://github.com/marclou"
+          },
+          "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+          "pitch": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+          "repoUrl": "https://github.com/marclou/mailcheap",
+          "homepageUrl": "https://mailcheap.ai",
+          "primaryLanguage": "JavaScript",
+          "stars": 1634,
+          "forks": 410,
+          "openIssues": 16,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "ai-agents",
+            "amazon-ses",
+            "beehiiv-alternative",
+            "email",
+            "email-marketing"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "🏆 Günün En İyileri",
+          "curatorScore": 165,
+          "createdAt": "2026-10-10T12:55:36Z",
+          "pushedAt": "2026-11-05T09:38:09Z"
+        },
+        {
+          "id": "1419078245",
+          "name": "open-claude-ui",
+          "fullName": "Caho1/open-claude-ui",
+          "owner": {
+            "username": "Caho1",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/124897849?v=4",
+            "githubUrl": "https://github.com/Caho1"
+          },
+          "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+          "pitch": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+          "repoUrl": "https://github.com/Caho1/open-claude-ui",
+          "homepageUrl": "https://openclaudeui.com",
+          "primaryLanguage": "TypeScript",
+          "stars": 1693,
+          "forks": 318,
+          "openIssues": 0,
+          "licenseName": "MIT License",
+          "tags": [
+            "anthropic",
+            "audioworklet",
+            "claude",
+            "design-system",
+            "framer-motion"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "🏆 Günün En İyileri",
+          "curatorScore": 163,
+          "createdAt": "2026-10-14T14:05:05Z",
+          "pushedAt": "2026-11-05T12:33:42Z"
+        },
+        {
+          "id": "1416887041",
+          "name": "indra",
+          "fullName": "datalab-to/indra",
+          "owner": {
+            "username": "datalab-to",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/176631703?v=4",
+            "githubUrl": "https://github.com/datalab-to"
+          },
+          "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
+          "pitch": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
+          "repoUrl": "https://github.com/datalab-to/indra",
+          "homepageUrl": "https://www.datalab.to",
+          "primaryLanguage": "Python",
+          "stars": 1641,
+          "forks": 167,
+          "openIssues": 8,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "ai",
+            "cpu",
+            "document-parsing",
+            "ocr",
+            "onnx"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "🏆 Günün En İyileri",
+          "curatorScore": 159,
+          "createdAt": "2026-10-13T11:07:11Z",
+          "pushedAt": "2026-11-04T19:16:28Z"
+        }
+      ]
+    },
+    {
+      "id": "ai_ml",
+      "title": "🤖 AI & Yapay Zeka",
+      "description": "Yerel modeller, RAG, agent çatıları ve LLM kütüphaneleri.",
+      "repos": [
+        {
+          "id": "1432883796",
+          "name": "agent-purge",
+          "fullName": "ZiChuanLan/agent-purge",
+          "owner": {
+            "username": "ZiChuanLan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139305401?v=4",
+            "githubUrl": "https://github.com/ZiChuanLan"
+          },
+          "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
+          "primaryLanguage": "JavaScript",
+          "stars": 1286,
+          "forks": 837,
+          "openIssues": 0,
+          "licenseName": "MIT License",
+          "tags": [
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "deepseek-harness",
+            "harness"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "🤖 AI & Yapay Zeka",
+          "curatorScore": 157,
+          "createdAt": "2026-10-25T06:06:02Z",
+          "pushedAt": "2026-11-05T11:38:02Z"
+        },
+        {
+          "id": "1422344223",
+          "name": "reason-network",
+          "fullName": "reason-machines/reason-network",
+          "owner": {
+            "username": "reason-machines",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/259454516?v=4",
+            "githubUrl": "https://github.com/reason-machines"
+          },
+          "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "pitch": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "repoUrl": "https://github.com/reason-machines/reason-network",
+          "homepageUrl": "https://reasonmachines.com",
+          "primaryLanguage": "Rust",
+          "stars": 1523,
+          "forks": 132,
+          "openIssues": 33,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "agent-to-agent",
+            "ai-agents",
+            "claude-code",
+            "codex",
+            "coding-agents"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "🤖 AI & Yapay Zeka",
+          "curatorScore": 156,
+          "createdAt": "2026-10-16T15:34:34Z",
+          "pushedAt": "2026-11-05T05:44:46Z"
+        },
+        {
+          "id": "1433057196",
+          "name": "ex-ussr-kinship-research",
+          "fullName": "DenisSergeevitch/ex-ussr-kinship-research",
+          "owner": {
+            "username": "DenisSergeevitch",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2140110?v=4",
+            "githubUrl": "https://github.com/DenisSergeevitch"
+          },
+          "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+          "pitch": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+          "repoUrl": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+          "primaryLanguage": "Python",
+          "stars": 1947,
+          "forks": 196,
+          "openIssues": 4,
+          "licenseName": "MIT License",
+          "tags": [
+            "agent-skills",
+            "archives",
+            "claude-code",
+            "codex",
+            "family-history"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "🤖 AI & Yapay Zeka",
+          "curatorScore": 152,
+          "createdAt": "2026-10-25T10:05:56Z",
+          "pushedAt": "2026-11-04T15:05:57Z"
+        },
+        {
+          "id": "1438661890",
+          "name": "rea-video",
+          "fullName": "JuneYaooo/rea-video",
+          "owner": {
+            "username": "JuneYaooo",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/60815510?v=4",
+            "githubUrl": "https://github.com/JuneYaooo"
+          },
+          "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+          "pitch": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+          "repoUrl": "https://github.com/JuneYaooo/rea-video",
+          "primaryLanguage": "Python",
+          "stars": 1766,
+          "forks": 247,
+          "openIssues": 1,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "agent-skills",
+            "ai-video",
+            "aigc-detection",
+            "claude-code",
+            "codex"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "🚀 Öne Çıkanlar",
+          "curatorScore": 152,
+          "createdAt": "2026-10-29T16:15:01Z",
+          "pushedAt": "2026-11-05T07:01:08Z"
+        },
+        {
+          "id": "1420259750",
+          "name": "Claude-Guardian",
+          "fullName": "DUNHKpcc/Claude-Guardian",
+          "owner": {
+            "username": "DUNHKpcc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/181722286?v=4",
+            "githubUrl": "https://github.com/DUNHKpcc"
+          },
+          "description": "Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups. ",
+          "pitch": "Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups. ",
+          "repoUrl": "https://github.com/DUNHKpcc/Claude-Guardian",
+          "homepageUrl": "https://api.dpccgaming.xyz/guardian",
+          "primaryLanguage": "Python",
+          "stars": 1754,
+          "forks": 232,
+          "openIssues": 3,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "agent-skills",
+            "claude-code",
+            "claude-skills",
+            "codex-skill"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "🚀 Öne Çıkanlar",
+          "curatorScore": 150,
+          "createdAt": "2026-10-15T06:09:53Z",
+          "pushedAt": "2026-11-05T05:37:35Z"
+        },
+        {
+          "id": "1431986839",
+          "name": "bama",
+          "fullName": "daveebbelaar/bama",
+          "owner": {
+            "username": "daveebbelaar",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34709402?v=4",
+            "githubUrl": "https://github.com/daveebbelaar"
+          },
+          "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+          "pitch": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+          "repoUrl": "https://github.com/daveebbelaar/bama",
+          "primaryLanguage": "Swift",
+          "stars": 1586,
+          "forks": 198,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "agent-skills",
+            "ai-agents",
+            "app-clone",
+            "claude-code",
+            "claude-code-plugin"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "🚀 Öne Çıkanlar",
+          "curatorScore": 149,
+          "createdAt": "2026-10-24T08:44:36Z",
+          "pushedAt": "2026-11-05T13:09:56Z"
+        }
+      ]
+    },
+    {
+      "id": "devtools_cli",
+      "title": "⚡ DevTools & Terminal Sistemleri",
+      "description": "Rust, Go, C ve Zig ile yazılmış hafif CLI ve altyapı araçları.",
+      "repos": [
+        {
+          "id": "1426287665",
+          "name": "blaze",
+          "fullName": "indexable-inc/blaze",
+          "owner": {
+            "username": "indexable-inc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/263587422?v=4",
+            "githubUrl": "https://github.com/indexable-inc"
+          },
+          "description": "Incremental rust builds up to 92x faster than cargo/rustc",
+          "pitch": "Incremental rust builds up to 92x faster than cargo/rustc",
+          "repoUrl": "https://github.com/indexable-inc/blaze",
+          "homepageUrl": "https://ix.dev/blaze",
+          "primaryLanguage": "Rust",
+          "stars": 1998,
+          "forks": 70,
+          "openIssues": 493,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "cargo",
+            "compiler",
+            "cranelift",
+            "developer-tools",
+            "hot-reload"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "⚡ DevTools & Terminal",
+          "curatorScore": 155,
+          "createdAt": "2026-10-19T23:31:09Z",
+          "pushedAt": "2026-11-05T10:15:17Z"
+        },
+        {
+          "id": "1408115543",
+          "name": "xiaoxiaodong-vps",
+          "fullName": "nevertoday/xiaoxiaodong-vps",
+          "owner": {
+            "username": "nevertoday",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/166048?v=4",
+            "githubUrl": "https://github.com/nevertoday"
+          },
+          "description": "小小东 VPS：3x-ui、Xray、OpenClash、Shadowrocket、CLIProxyAPI 与自动升级部署蓝图",
+          "pitch": "小小东 VPS：3x-ui、Xray、OpenClash、Shadowrocket、CLIProxyAPI 与自动升级部署蓝图",
+          "repoUrl": "https://github.com/nevertoday/xiaoxiaodong-vps",
+          "homepageUrl": "https://vps.xiaoxiaodong.ai/",
+          "primaryLanguage": "MDX",
+          "stars": 1372,
+          "forks": 136,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "3x-ui",
+            "clash",
+            "cliproxyapi",
+            "mihomo",
+            "openclash"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "⚡ DevTools & Terminal",
+          "curatorScore": 155,
+          "createdAt": "2026-10-07T01:52:11Z",
+          "pushedAt": "2026-11-05T13:57:57Z"
+        },
+        {
+          "id": "1430208916",
+          "name": "tellyscope",
+          "fullName": "man15h/tellyscope",
+          "owner": {
+            "username": "man15h",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13364153?v=4",
+            "githubUrl": "https://github.com/man15h"
+          },
+          "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.",
+          "pitch": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.",
+          "repoUrl": "https://github.com/man15h/tellyscope",
+          "homepageUrl": "https://man15h.github.io/tellyscope/",
+          "primaryLanguage": "Kotlin",
+          "stars": 1515,
+          "forks": 81,
+          "openIssues": 31,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "android",
+            "androidtv",
+            "googletv",
+            "privacy"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "⚡ DevTools & Terminal",
+          "curatorScore": 151,
+          "createdAt": "2026-10-22T19:51:46Z",
+          "pushedAt": "2026-11-04T06:21:20Z"
+        }
+      ]
+    },
+    {
+      "id": "web_fullstack",
+      "title": "🌐 Web, Frontend & UI",
+      "description": "Modern framework'ler, arayüz bileşenleri ve API servisleri.",
+      "repos": [
+        {
+          "id": "1411352230",
+          "name": "Raven",
+          "fullName": "oscar-soirey/Raven",
+          "owner": {
+            "username": "oscar-soirey",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/47278608?v=4",
+            "githubUrl": "https://github.com/oscar-soirey"
+          },
+          "description": "A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Java, Python, Zig, Lua, Go, Odin",
+          "pitch": "A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Java, Python, Zig, Lua, Go, Odin",
+          "repoUrl": "https://github.com/oscar-soirey/Raven",
+          "homepageUrl": "https://oscar-soirey.github.io/Raven/",
+          "primaryLanguage": "C",
+          "stars": 1922,
+          "forks": 86,
+          "openIssues": 8,
+          "licenseName": "Apache License 2.0",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "🌐 Web & Fullstack",
+          "curatorScore": 146,
+          "createdAt": "2026-10-09T05:45:57Z",
+          "pushedAt": "2026-11-05T13:10:37Z"
+        },
+        {
+          "id": "1431464445",
+          "name": "minilytics",
+          "fullName": "surendrapandar/minilytics",
+          "owner": {
+            "username": "surendrapandar",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/71205618?v=4",
+            "githubUrl": "https://github.com/surendrapandar"
+          },
+          "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+          "pitch": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+          "repoUrl": "https://github.com/surendrapandar/minilytics",
+          "homepageUrl": "https://minilytics.app",
+          "primaryLanguage": "TypeScript",
+          "stars": 813,
+          "forks": 197,
+          "openIssues": 12,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "🌐 Web & Fullstack",
+          "curatorScore": 142,
+          "createdAt": "2026-10-23T19:27:24Z",
+          "pushedAt": "2026-11-03T04:35:41Z"
+        },
+        {
+          "id": "1432695352",
+          "name": "ultratears",
+          "fullName": "kuraeow/ultratears",
+          "owner": {
+            "username": "kuraeow",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/79721693?v=4",
+            "githubUrl": "https://github.com/kuraeow"
+          },
+          "description": "Unofficial native PC and Steam Deck port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.",
+          "pitch": "Unofficial native PC and Steam Deck port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.",
+          "repoUrl": "https://github.com/kuraeow/ultratears",
+          "homepageUrl": "https://x.com/kuraeow",
+          "primaryLanguage": "C",
+          "stars": 763,
+          "forks": 40,
+          "openIssues": 37,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "arm64",
+            "arm64-x86",
+            "game-port",
+            "native-port",
+            "proton"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "🌐 Web & Fullstack",
+          "curatorScore": 141,
+          "createdAt": "2026-10-25T00:04:08Z",
+          "pushedAt": "2026-11-05T13:17:10Z"
+        }
+      ]
+    },
+    {
+      "id": "hidden_gem",
+      "title": "💎 Gizli Cevherler (Hidden Gems)",
+      "description": "Henüz yıldızı az (< 250) ama fikri ve mühendisliği dahi bağımsız projeler.",
+      "repos": []
+    }
+  ]
+}

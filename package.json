@@ -1,0 +1,26 @@
+{
+  "name": "git-curator",
+  "version": "1.0.0",
+  "description": "Daily automated curation of the top 15 open-source repositories with historical archiving and GitFeed sync.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "curate": "tsx src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "github",
+    "curator",
+    "trending",
+    "open-source",
+    "automation",
+    "daily"
+  ],
+  "author": "lulushu",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
