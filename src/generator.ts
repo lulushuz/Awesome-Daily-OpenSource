@@ -42,31 +42,31 @@ export function generateDailyArtifacts(baseDir: string, repos: CuratedRepo[]): D
     }
   }
 
-  // Category definitions in English
+  // Category definitions without emojis
   const categoryOrder: { id: RepoCategory; title: string; description: string }[] = [
     {
       id: "top_pick",
-      title: "🏆 Top Picks",
+      title: "Top Picks",
       description: "The fastest-accelerating, highest-impact open-source tools of the day.",
     },
     {
       id: "ai_ml",
-      title: "🤖 AI & Machine Learning",
+      title: "AI & Machine Learning",
       description: "Local models, RAG engines, agent frameworks, and LLM utilities.",
     },
     {
       id: "devtools_cli",
-      title: "⚡ DevTools & Systems",
+      title: "DevTools & Systems",
       description: "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
     },
     {
       id: "web_fullstack",
-      title: "🌐 Web & Fullstack",
+      title: "Web & Fullstack",
       description: "Modern UI components, web frameworks, and backend services.",
     },
     {
       id: "hidden_gem",
-      title: "💎 Hidden Gems",
+      title: "Hidden Gems",
       description: "Early-stage repos (< 250 stars) with exceptional engineering and novelty.",
     },
   ];
@@ -106,9 +106,9 @@ export function generateDailyArtifacts(baseDir: string, repos: CuratedRepo[]): D
   const readmePath = path.join(baseDir, "README.md");
   fs.writeFileSync(readmePath, readmeMd, "utf-8");
 
-  console.log(`📁 Archive saved: ${archiveMdPath}`);
-  console.log(`⚡ latest.json updated: ${latestJsonPath}`);
-  console.log(`📝 README.md updated with minimal design.`);
+  console.log(`Archive saved: ${archiveMdPath}`);
+  console.log(`latest.json updated: ${latestJsonPath}`);
+  console.log(`README.md updated with minimal design.`);
 
   return curation;
 }
@@ -116,8 +116,8 @@ export function generateDailyArtifacts(baseDir: string, repos: CuratedRepo[]): D
 function renderCurationMarkdown(curation: DailyCuration, isRoot: boolean): string {
   let md = "";
   if (!isRoot) {
-    md += `# 📅 Awesome Daily Open Source — ${curation.date}\n\n`;
-    md += `> Curating the top **${curation.totalCount} open-source repositories** filtered through a 7-stage quality pipeline.\n\n`;
+    md += `# Awesome Daily Open Source — ${curation.date}\n\n`;
+    md += `> Top **${curation.totalCount} open-source repositories** filtered through a 7-stage quality pipeline.\n\n`;
   }
 
   for (const group of curation.categories) {
@@ -132,7 +132,7 @@ function renderCurationMarkdown(curation: DailyCuration, isRoot: boolean): strin
       const licenseShort = repo.licenseName.replace(/ License/i, "");
 
       md += `- [**${repo.fullName}**](${repo.repoUrl}) — ${cleanDesc}\n`;
-      md += `  \`${repo.primaryLanguage}\` · \`⭐ ${starStr}\` · \`🍴 ${forkStr}\` · \`${licenseShort}\``;
+      md += `  \`${repo.primaryLanguage}\` · \`${starStr} stars\` · \`${forkStr} forks\` · \`${licenseShort}\``;
       if (repo.tags.length > 0) {
         md += ` · *${repo.tags.slice(0, 3).map((t) => `#${t}`).join(" ")}*`;
       }
@@ -150,15 +150,15 @@ function renderRootReadme(baseDir: string, latestCuration: DailyCuration): strin
   md += `[![Daily Curation](https://github.com/lulushuz/Awesome-Daily-OpenSource/actions/workflows/daily-curate.yml/badge.svg)](https://github.com/lulushuz/Awesome-Daily-OpenSource/actions)\n`;
   md += `[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)\n`;
   md += `[![Daily Repos](https://img.shields.io/badge/Daily-15%20Repos-success?style=flat-square)](archives/)\n\n`;
-  md += `[Archives](archives) · [Latest JSON Feed](data/latest.json) · [GitFeed](https://github.com/lulushu/git-feed)\n\n`;
+  md += `[Archives](archives) · [Latest JSON Feed](data/latest.json)\n\n`;
   md += `</div>\n\n`;
   md += `---\n\n`;
 
-  md += `## 🔥 Today's Top 15 Repositories (${latestCuration.date})\n\n`;
+  md += `## Today's Top 15 Repositories (${latestCuration.date})\n\n`;
   md += renderCurationMarkdown(latestCuration, true);
 
   md += `---\n\n`;
-  md += `## 📚 Archives\n\n`;
+  md += `## Archives\n\n`;
   md += `All past selections are permanently preserved under [\`archives/\`](archives/):\n\n`;
 
   const archivesRoot = path.join(baseDir, "archives");
@@ -182,7 +182,7 @@ function renderRootReadme(baseDir: string, latestCuration: DailyCuration): strin
     }
   }
 
-  md += `## 🛡️ Evaluation Criteria\n\n`;
+  md += `## Evaluation Criteria\n\n`;
   md += `Every candidate repo must pass 7 automated quality filters:\n\n`;
   md += `1. **OSI-Approved License:** Must have an official open-source license (MIT, Apache-2.0, GPL, BSD, etc.).\n`;
   md += `2. **Original Software (No Forks):** Duplicates, mirrors, and forks are excluded.\n`;

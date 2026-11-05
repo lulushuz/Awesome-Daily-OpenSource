@@ -135,7 +135,7 @@ export function categorizeAndSelect15(candidates: RawGitHubRepo[]): CuratedRepo[
   const topPicks = scored.slice(0, 3);
   for (const item of topPicks) {
     selectedSet.add(item.repo.id);
-    finalRepos.push(toCurated(item.repo, "top_pick", "🏆 Top Picks", item.score));
+    finalRepos.push(toCurated(item.repo, "top_pick", "Top Picks", item.score));
   }
 
   // 2. AI & ML: 3 repos
@@ -144,7 +144,7 @@ export function categorizeAndSelect15(candidates: RawGitHubRepo[]): CuratedRepo[
   );
   for (const item of aiCandidates.slice(0, 3)) {
     selectedSet.add(item.repo.id);
-    finalRepos.push(toCurated(item.repo, "ai_ml", "🤖 AI & Machine Learning", item.score));
+    finalRepos.push(toCurated(item.repo, "ai_ml", "AI & Machine Learning", item.score));
   }
 
   // 3. DEVTOOLS & CLI: 3 repos
@@ -153,7 +153,7 @@ export function categorizeAndSelect15(candidates: RawGitHubRepo[]): CuratedRepo[
   );
   for (const item of devtoolsCandidates.slice(0, 3)) {
     selectedSet.add(item.repo.id);
-    finalRepos.push(toCurated(item.repo, "devtools_cli", "⚡ DevTools & Systems", item.score));
+    finalRepos.push(toCurated(item.repo, "devtools_cli", "DevTools & Systems", item.score));
   }
 
   // 4. WEB & FULLSTACK: 3 repos
@@ -162,7 +162,7 @@ export function categorizeAndSelect15(candidates: RawGitHubRepo[]): CuratedRepo[
   );
   for (const item of webCandidates.slice(0, 3)) {
     selectedSet.add(item.repo.id);
-    finalRepos.push(toCurated(item.repo, "web_fullstack", "🌐 Web & Fullstack", item.score));
+    finalRepos.push(toCurated(item.repo, "web_fullstack", "Web & Fullstack", item.score));
   }
 
   // 5. HIDDEN GEMS: 3 repos with < 200 stars that have high freshness & originality
@@ -174,7 +174,7 @@ export function categorizeAndSelect15(candidates: RawGitHubRepo[]): CuratedRepo[
   );
   for (const item of gemCandidates.slice(0, 3)) {
     selectedSet.add(item.repo.id);
-    finalRepos.push(toCurated(item.repo, "hidden_gem", "💎 Hidden Gems", item.score));
+    finalRepos.push(toCurated(item.repo, "hidden_gem", "Hidden Gems", item.score));
   }
 
   // If any category had fewer than 3 candidates, fill up to 15 from remaining highest scored repos
@@ -183,7 +183,7 @@ export function categorizeAndSelect15(candidates: RawGitHubRepo[]): CuratedRepo[
     for (const item of remaining) {
       if (finalRepos.length >= 15) break;
       selectedSet.add(item.repo.id);
-      finalRepos.push(toCurated(item.repo, item.baseCategory, "🚀 Featured", item.score));
+      finalRepos.push(toCurated(item.repo, item.baseCategory, "Featured", item.score));
     }
   }
 
