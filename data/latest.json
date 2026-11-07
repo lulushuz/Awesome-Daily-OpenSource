@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "year": "2026",
   "month": "11",
   "monthName": "November",
-  "timestamp": "2026-11-06T04:40:45.830Z",
+  "timestamp": "2026-11-07T04:06:51.779Z",
   "totalCount": 15,
   "categories": [
     {
@@ -25,8 +25,8 @@
           "repoUrl": "https://github.com/marclou/mailcheap",
           "homepageUrl": "https://mailcheap.ai",
           "primaryLanguage": "JavaScript",
-          "stars": 1639,
-          "forks": 415,
+          "stars": 1649,
+          "forks": 417,
           "openIssues": 16,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
@@ -40,7 +40,7 @@
           "categoryLabel": "Top Picks",
           "curatorScore": 165,
           "createdAt": "2026-10-10T12:55:36Z",
-          "pushedAt": "2026-11-05T09:38:09Z"
+          "pushedAt": "2026-11-06T09:34:08Z"
         },
         {
           "id": "1419078245",
@@ -56,9 +56,9 @@
           "repoUrl": "https://github.com/Caho1/open-claude-ui",
           "homepageUrl": "https://openclaudeui.com",
           "primaryLanguage": "TypeScript",
-          "stars": 1709,
-          "forks": 318,
-          "openIssues": 1,
+          "stars": 1720,
+          "forks": 320,
+          "openIssues": 0,
           "licenseName": "MIT License",
           "tags": [
             "anthropic",
@@ -71,38 +71,38 @@
           "categoryLabel": "Top Picks",
           "curatorScore": 163,
           "createdAt": "2026-10-14T14:05:05Z",
-          "pushedAt": "2026-11-06T03:27:34Z"
+          "pushedAt": "2026-11-06T12:23:23Z"
         },
         {
-          "id": "1416887041",
-          "name": "indra",
-          "fullName": "datalab-to/indra",
+          "id": "1422344223",
+          "name": "reason-network",
+          "fullName": "reason-machines/reason-network",
           "owner": {
-            "username": "datalab-to",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/176631703?v=4",
-            "githubUrl": "https://github.com/datalab-to"
+            "username": "reason-machines",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/259454516?v=4",
+            "githubUrl": "https://github.com/reason-machines"
           },
-          "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
-          "pitch": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
-          "repoUrl": "https://github.com/datalab-to/indra",
-          "homepageUrl": "https://www.datalab.to",
-          "primaryLanguage": "Python",
-          "stars": 1647,
-          "forks": 168,
-          "openIssues": 8,
+          "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "pitch": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "repoUrl": "https://github.com/reason-machines/reason-network",
+          "homepageUrl": "https://reasonmachines.com",
+          "primaryLanguage": "Rust",
+          "stars": 1633,
+          "forks": 142,
+          "openIssues": 28,
           "licenseName": "Apache License 2.0",
           "tags": [
-            "ai",
-            "cpu",
-            "document-parsing",
-            "ocr",
-            "onnx"
+            "agent-to-agent",
+            "ai-agents",
+            "claude-code",
+            "codex",
+            "coding-agents"
           ],
           "category": "top_pick",
           "categoryLabel": "Top Picks",
-          "curatorScore": 159,
-          "createdAt": "2026-10-13T11:07:11Z",
-          "pushedAt": "2026-11-04T19:16:28Z"
+          "curatorScore": 158,
+          "createdAt": "2026-10-16T15:34:34Z",
+          "pushedAt": "2026-11-06T17:42:38Z"
         }
       ]
     },
@@ -124,9 +124,9 @@
           "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
           "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
           "primaryLanguage": "JavaScript",
-          "stars": 1304,
-          "forks": 844,
-          "openIssues": 1,
+          "stars": 1355,
+          "forks": 861,
+          "openIssues": 0,
           "licenseName": "MIT License",
           "tags": [
             "claude-code",
@@ -139,99 +139,35 @@
           "categoryLabel": "AI & Machine Learning",
           "curatorScore": 157,
           "createdAt": "2026-10-25T06:06:02Z",
-          "pushedAt": "2026-11-05T11:38:02Z"
+          "pushedAt": "2026-11-06T15:20:37Z"
         },
         {
-          "id": "1422344223",
-          "name": "reason-network",
-          "fullName": "reason-machines/reason-network",
+          "id": "1411113692",
+          "name": "ARTEX",
+          "fullName": "RuoJi6/ARTEX",
           "owner": {
-            "username": "reason-machines",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/259454516?v=4",
-            "githubUrl": "https://github.com/reason-machines"
+            "username": "RuoJi6",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/79234113?v=4",
+            "githubUrl": "https://github.com/RuoJi6"
           },
-          "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-          "pitch": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-          "repoUrl": "https://github.com/reason-machines/reason-network",
-          "homepageUrl": "https://reasonmachines.com",
-          "primaryLanguage": "Rust",
-          "stars": 1576,
-          "forks": 138,
-          "openIssues": 33,
-          "licenseName": "Apache License 2.0",
-          "tags": [
-            "agent-to-agent",
-            "ai-agents",
-            "claude-code",
-            "codex",
-            "coding-agents"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 157,
-          "createdAt": "2026-10-16T15:34:34Z",
-          "pushedAt": "2026-11-05T15:34:45Z"
-        },
-        {
-          "id": "1436993930",
-          "name": "ff-ruyijs",
-          "fullName": "cutetailbud/ff-ruyijs",
-          "owner": {
-            "username": "cutetailbud",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/212403118?v=4",
-            "githubUrl": "https://github.com/cutetailbud"
-          },
-          "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-          "pitch": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-          "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
-          "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
-          "primaryLanguage": "C++",
-          "stars": 754,
-          "forks": 316,
-          "openIssues": 11,
+          "description": "Autumn-27/ARTEX 持续维护开源版本",
+          "pitch": "Autumn-27/ARTEX 持续维护开源版本",
+          "repoUrl": "https://github.com/RuoJi6/ARTEX",
+          "homepageUrl": "https://artex-demo-ruoji6.vercel.app/",
+          "primaryLanguage": "Go",
+          "stars": 1358,
+          "forks": 814,
+          "openIssues": 17,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
-            "anti-bot",
-            "automation",
-            "firefox",
-            "headless-browser",
-            "javascript"
+            "agent",
+            "artex"
           ],
           "category": "ai_ml",
           "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 154,
-          "createdAt": "2026-10-28T11:31:41Z",
-          "pushedAt": "2026-11-04T19:21:40Z"
-        },
-        {
-          "id": "1433057196",
-          "name": "ex-ussr-kinship-research",
-          "fullName": "DenisSergeevitch/ex-ussr-kinship-research",
-          "owner": {
-            "username": "DenisSergeevitch",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2140110?v=4",
-            "githubUrl": "https://github.com/DenisSergeevitch"
-          },
-          "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-          "pitch": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-          "repoUrl": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-          "primaryLanguage": "Python",
-          "stars": 1993,
-          "forks": 202,
-          "openIssues": 1,
-          "licenseName": "MIT License",
-          "tags": [
-            "agent-skills",
-            "archives",
-            "claude-code",
-            "codex",
-            "family-history"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "Featured",
-          "curatorScore": 152,
-          "createdAt": "2026-10-25T10:05:56Z",
-          "pushedAt": "2026-11-05T22:07:15Z"
+          "curatorScore": 151,
+          "createdAt": "2026-10-09T00:56:36Z",
+          "pushedAt": "2026-11-05T09:04:50Z"
         },
         {
           "id": "1420259750",
@@ -247,9 +183,9 @@
           "repoUrl": "https://github.com/DUNHKpcc/Claude-Guardian",
           "homepageUrl": "https://api.dpccgaming.xyz/guardian",
           "primaryLanguage": "Python",
-          "stars": 1766,
-          "forks": 232,
-          "openIssues": 3,
+          "stars": 1817,
+          "forks": 239,
+          "openIssues": 5,
           "licenseName": "GNU General Public License v3.0",
           "tags": [
             "agent-skills",
@@ -258,7 +194,7 @@
             "codex-skill"
           ],
           "category": "ai_ml",
-          "categoryLabel": "Featured",
+          "categoryLabel": "AI & Machine Learning",
           "curatorScore": 150,
           "createdAt": "2026-10-15T06:09:53Z",
           "pushedAt": "2026-11-06T02:14:27Z"
@@ -276,8 +212,8 @@
           "pitch": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
           "repoUrl": "https://github.com/daveebbelaar/bama",
           "primaryLanguage": "Swift",
-          "stars": 1611,
-          "forks": 200,
+          "stars": 1645,
+          "forks": 201,
           "openIssues": 1,
           "licenseName": "MIT License",
           "tags": [
@@ -292,6 +228,67 @@
           "curatorScore": 150,
           "createdAt": "2026-10-24T08:44:36Z",
           "pushedAt": "2026-11-05T13:09:56Z"
+        },
+        {
+          "id": "1439885901",
+          "name": "sapper-v2",
+          "fullName": "N1nEmAn/sapper-v2",
+          "owner": {
+            "username": "N1nEmAn",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/118088443?v=4",
+            "githubUrl": "https://github.com/N1nEmAn"
+          },
+          "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+          "pitch": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+          "repoUrl": "https://github.com/N1nEmAn/sapper-v2",
+          "primaryLanguage": "Python",
+          "stars": 1494,
+          "forks": 834,
+          "openIssues": 4,
+          "licenseName": "MIT License",
+          "tags": [
+            "ai-agents",
+            "autonomous-agents",
+            "claude-code",
+            "ctf",
+            "llm"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 148,
+          "createdAt": "2026-10-30T15:12:35Z",
+          "pushedAt": "2026-11-07T01:24:14Z"
+        },
+        {
+          "id": "1436993930",
+          "name": "ff-ruyijs",
+          "fullName": "cutetailbud/ff-ruyijs",
+          "owner": {
+            "username": "cutetailbud",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/212403118?v=4",
+            "githubUrl": "https://github.com/cutetailbud"
+          },
+          "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "pitch": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
+          "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
+          "primaryLanguage": "C++",
+          "stars": 862,
+          "forks": 322,
+          "openIssues": 4,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "anti-bot",
+            "automation",
+            "firefox",
+            "headless-browser",
+            "javascript"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 146,
+          "createdAt": "2026-10-28T11:31:41Z",
+          "pushedAt": "2026-11-06T15:26:40Z"
         }
       ]
     },
@@ -314,9 +311,9 @@
           "repoUrl": "https://github.com/man15h/tellyscope",
           "homepageUrl": "https://man15h.github.io/tellyscope/",
           "primaryLanguage": "Kotlin",
-          "stars": 1579,
-          "forks": 84,
-          "openIssues": 25,
+          "stars": 1673,
+          "forks": 89,
+          "openIssues": 18,
           "licenseName": "GNU General Public License v3.0",
           "tags": [
             "android",
@@ -326,9 +323,40 @@
           ],
           "category": "devtools_cli",
           "categoryLabel": "DevTools & Systems",
-          "curatorScore": 152,
+          "curatorScore": 153,
           "createdAt": "2026-10-22T19:51:46Z",
-          "pushedAt": "2026-11-05T22:13:41Z"
+          "pushedAt": "2026-11-06T17:14:08Z"
+        },
+        {
+          "id": "1417558351",
+          "name": "wxa-runner",
+          "fullName": "open-wxa/wxa-runner",
+          "owner": {
+            "username": "open-wxa",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/341914348?v=4",
+            "githubUrl": "https://github.com/open-wxa"
+          },
+          "description": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
+          "pitch": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
+          "repoUrl": "https://github.com/open-wxa/wxa-runner",
+          "homepageUrl": "https://open-wxa.github.io/wxa-runner/",
+          "primaryLanguage": "TypeScript",
+          "stars": 1032,
+          "forks": 125,
+          "openIssues": 7,
+          "licenseName": "MIT License",
+          "tags": [
+            "e2e-testing",
+            "mini-program",
+            "miniprogram",
+            "playwright",
+            "simulator"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 152,
+          "createdAt": "2026-10-13T17:06:51Z",
+          "pushedAt": "2026-11-06T17:50:24Z"
         },
         {
           "id": "1439430391",
@@ -344,9 +372,9 @@
           "repoUrl": "https://github.com/kevinraymond/florilegium",
           "homepageUrl": "https://kevinraymond.github.io/florilegium/",
           "primaryLanguage": "TeX",
-          "stars": 1490,
-          "forks": 42,
-          "openIssues": 1,
+          "stars": 1553,
+          "forks": 45,
+          "openIssues": 2,
           "licenseName": "MIT License",
           "tags": [
             "botanical-illustration",
@@ -357,40 +385,9 @@
           ],
           "category": "devtools_cli",
           "categoryLabel": "DevTools & Systems",
-          "curatorScore": 149,
+          "curatorScore": 150,
           "createdAt": "2026-10-30T07:49:05Z",
-          "pushedAt": "2026-11-05T19:43:58Z"
-        },
-        {
-          "id": "1432397417",
-          "name": "cyber-xiaoya-live",
-          "fullName": "cyber-xiaoya/cyber-xiaoya-live",
-          "owner": {
-            "username": "cyber-xiaoya",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/347483596?v=4",
-            "githubUrl": "https://github.com/cyber-xiaoya"
-          },
-          "description": "赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）",
-          "pitch": "赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）",
-          "repoUrl": "https://github.com/cyber-xiaoya/cyber-xiaoya-live",
-          "homepageUrl": "https://www.19980303.xyz/",
-          "primaryLanguage": "Python",
-          "stars": 746,
-          "forks": 322,
-          "openIssues": 1,
-          "licenseName": "GNU Affero General Public License v3.0",
-          "tags": [
-            "agpl",
-            "danmaku",
-            "digital-human",
-            "live-streaming",
-            "python"
-          ],
-          "category": "devtools_cli",
-          "categoryLabel": "DevTools & Systems",
-          "curatorScore": 147,
-          "createdAt": "2026-10-24T16:54:32Z",
-          "pushedAt": "2026-11-02T10:40:36Z"
+          "pushedAt": "2026-11-06T13:27:54Z"
         }
       ]
     },
@@ -400,54 +397,35 @@
       "description": "Modern UI components, web frameworks, and backend services.",
       "repos": [
         {
-          "id": "1411352230",
-          "name": "Raven",
-          "fullName": "oscar-soirey/Raven",
+          "id": "1445112696",
+          "name": "player",
+          "fullName": "livliv-dev/player",
           "owner": {
-            "username": "oscar-soirey",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/47278608?v=4",
-            "githubUrl": "https://github.com/oscar-soirey"
+            "username": "livliv-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/352250088?v=4",
+            "githubUrl": "https://github.com/livliv-dev"
           },
-          "description": "A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Java, Python, Zig, Lua, Go, Odin",
-          "pitch": "A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Java, Python, Zig, Lua, Go, Odin",
-          "repoUrl": "https://github.com/oscar-soirey/Raven",
-          "homepageUrl": "https://oscar-soirey.github.io/Raven/",
-          "primaryLanguage": "C",
-          "stars": 1957,
-          "forks": 87,
-          "openIssues": 8,
+          "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "pitch": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "repoUrl": "https://github.com/livliv-dev/player",
+          "homepageUrl": "https://livliv-dev.github.io/player/",
+          "primaryLanguage": "TypeScript",
+          "stars": 983,
+          "forks": 103,
+          "openIssues": 2,
           "licenseName": "Apache License 2.0",
-          "tags": [],
+          "tags": [
+            "avatar",
+            "character",
+            "face-tracking",
+            "lip-sync",
+            "pngtuber"
+          ],
           "category": "web_fullstack",
           "categoryLabel": "Web & Fullstack",
-          "curatorScore": 146,
-          "createdAt": "2026-10-09T05:45:57Z",
-          "pushedAt": "2026-11-05T22:42:56Z"
-        },
-        {
-          "id": "1409806011",
-          "name": "VibeOffice",
-          "fullName": "tcchen2026/VibeOffice",
-          "owner": {
-            "username": "tcchen2026",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/264924385?v=4",
-            "githubUrl": "https://github.com/tcchen2026"
-          },
-          "description": "A free office suite that runs in your browser, in the 2000s style. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-          "pitch": "A free office suite that runs in your browser, in the 2000s style. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-          "repoUrl": "https://github.com/tcchen2026/VibeOffice",
-          "homepageUrl": "https://vibeoffice.work",
-          "primaryLanguage": "JavaScript",
-          "stars": 1265,
-          "forks": 176,
-          "openIssues": 13,
-          "licenseName": "Apache License 2.0",
-          "tags": [],
-          "category": "web_fullstack",
-          "categoryLabel": "Web & Fullstack",
-          "curatorScore": 146,
-          "createdAt": "2026-10-08T05:51:30Z",
-          "pushedAt": "2026-11-04T00:57:14Z"
+          "curatorScore": 150,
+          "createdAt": "2026-11-04T03:28:33Z",
+          "pushedAt": "2026-11-07T01:28:44Z"
         },
         {
           "id": "1432695352",
@@ -463,9 +441,9 @@
           "repoUrl": "https://github.com/kuraeow/ultratears",
           "homepageUrl": "https://x.com/kuraeow",
           "primaryLanguage": "C",
-          "stars": 776,
+          "stars": 797,
           "forks": 40,
-          "openIssues": 40,
+          "openIssues": 43,
           "licenseName": "GNU General Public License v3.0",
           "tags": [
             "arm64",
@@ -476,9 +454,34 @@
           ],
           "category": "web_fullstack",
           "categoryLabel": "Web & Fullstack",
-          "curatorScore": 141,
+          "curatorScore": 142,
           "createdAt": "2026-10-25T00:04:08Z",
-          "pushedAt": "2026-11-06T00:01:02Z"
+          "pushedAt": "2026-11-06T22:32:18Z"
+        },
+        {
+          "id": "1426270002",
+          "name": "ElyOffice",
+          "fullName": "ELY-Open-Source/ElyOffice",
+          "owner": {
+            "username": "ELY-Open-Source",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/345003095?v=4",
+            "githubUrl": "https://github.com/ELY-Open-Source"
+          },
+          "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+          "pitch": "Ely Office: offline-first desktop apps in Rust and GPUI",
+          "repoUrl": "https://github.com/ELY-Open-Source/ElyOffice",
+          "homepageUrl": "https://office.elygpui.com",
+          "primaryLanguage": "Rust",
+          "stars": 1232,
+          "forks": 86,
+          "openIssues": 11,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 141,
+          "createdAt": "2026-10-19T23:04:42Z",
+          "pushedAt": "2026-11-07T03:37:37Z"
         }
       ]
     },

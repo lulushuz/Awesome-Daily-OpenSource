@@ -14,64 +14,64 @@
 
 ---
 
-## Today's Top 15 Repositories (2026-11-06)
+## Today's Top 15 Repositories (2026-11-07)
 
 ### Top Picks
 *The fastest-accelerating, highest-impact open-source tools of the day.*
 
 - [**marclou/mailcheap**](https://github.com/marclou/mailcheap) — Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.
-  `JavaScript` · `1.6k stars` · `415 forks` · `GNU Affero General Public v3.0` · *#ai-agents #amazon-ses #beehiiv-alternative*
+  `JavaScript` · `1.6k stars` · `417 forks` · `GNU Affero General Public v3.0` · *#ai-agents #amazon-ses #beehiiv-alternative*
 
 - [**Caho1/open-claude-ui**](https://github.com/Caho1/open-claude-ui) — 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。
-  `TypeScript` · `1.7k stars` · `318 forks` · `MIT` · *#anthropic #audioworklet #claude*
+  `TypeScript` · `1.7k stars` · `320 forks` · `MIT` · *#anthropic #audioworklet #claude*
 
-- [**datalab-to/indra**](https://github.com/datalab-to/indra) — 1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy
-  `Python` · `1.6k stars` · `168 forks` · `Apache 2.0` · *#ai #cpu #document-parsing*
+- [**reason-machines/reason-network**](https://github.com/reason-machines/reason-network) — Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.
+  `Rust` · `1.6k stars` · `142 forks` · `Apache 2.0` · *#agent-to-agent #ai-agents #claude-code*
 
 ### AI & Machine Learning
 *Local models, RAG engines, agent frameworks, and LLM utilities.*
 
 - [**ZiChuanLan/agent-purge**](https://github.com/ZiChuanLan/agent-purge) — One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.
-  `JavaScript` · `1.3k stars` · `844 forks` · `MIT` · *#claude-code #codex #coding-agent*
+  `JavaScript` · `1.4k stars` · `861 forks` · `MIT` · *#claude-code #codex #coding-agent*
 
-- [**reason-machines/reason-network**](https://github.com/reason-machines/reason-network) — Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.
-  `Rust` · `1.6k stars` · `138 forks` · `Apache 2.0` · *#agent-to-agent #ai-agents #claude-code*
-
-- [**cutetailbud/ff-ruyijs**](https://github.com/cutetailbud/ff-ruyijs) — A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.
-  `C++` · `754 stars` · `316 forks` · `GNU Affero General Public v3.0` · *#anti-bot #automation #firefox*
-
-- [**DenisSergeevitch/ex-ussr-kinship-research**](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) — Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-  `Python` · `2k stars` · `202 forks` · `MIT` · *#agent-skills #archives #claude-code*
+- [**RuoJi6/ARTEX**](https://github.com/RuoJi6/ARTEX) — Autumn-27/ARTEX 持续维护开源版本
+  `Go` · `1.4k stars` · `814 forks` · `GNU Affero General Public v3.0` · *#agent #artex*
 
 - [**DUNHKpcc/Claude-Guardian**](https://github.com/DUNHKpcc/Claude-Guardian) — Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups.
-  `Python` · `1.8k stars` · `232 forks` · `GNU General Public v3.0` · *#agent-skills #claude-code #claude-skills*
+  `Python` · `1.8k stars` · `239 forks` · `GNU General Public v3.0` · *#agent-skills #claude-code #claude-skills*
 
 - [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) — BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.
-  `Swift` · `1.6k stars` · `200 forks` · `MIT` · *#agent-skills #ai-agents #app-clone*
+  `Swift` · `1.6k stars` · `201 forks` · `MIT` · *#agent-skills #ai-agents #app-clone*
+
+- [**N1nEmAn/sapper-v2**](https://github.com/N1nEmAn/sapper-v2) — Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.
+  `Python` · `1.5k stars` · `834 forks` · `MIT` · *#ai-agents #autonomous-agents #claude-code*
+
+- [**cutetailbud/ff-ruyijs**](https://github.com/cutetailbud/ff-ruyijs) — This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios
+  `C++` · `862 stars` · `322 forks` · `GNU Affero General Public v3.0` · *#anti-bot #automation #firefox*
 
 ### DevTools & Systems
 *Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.*
 
 - [**man15h/tellyscope**](https://github.com/man15h/tellyscope) — Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
-  `Kotlin` · `1.6k stars` · `84 forks` · `GNU General Public v3.0` · *#android #androidtv #googletv*
+  `Kotlin` · `1.7k stars` · `89 forks` · `GNU General Public v3.0` · *#android #androidtv #googletv*
+
+- [**open-wxa/wxa-runner**](https://github.com/open-wxa/wxa-runner) — 在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试
+  `TypeScript` · `1k stars` · `125 forks` · `MIT` · *#e2e-testing #mini-program #miniprogram*
 
 - [**kevinraymond/florilegium**](https://github.com/kevinraymond/florilegium) — Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX
-  `TeX` · `1.5k stars` · `42 forks` · `MIT` · *#botanical-illustration #generative-art #latex*
-
-- [**cyber-xiaoya/cyber-xiaoya-live**](https://github.com/cyber-xiaoya/cyber-xiaoya-live) — 赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）
-  `Python` · `746 stars` · `322 forks` · `GNU Affero General Public v3.0` · *#agpl #danmaku #digital-human*
+  `TeX` · `1.6k stars` · `45 forks` · `MIT` · *#botanical-illustration #generative-art #latex*
 
 ### Web & Fullstack
 *Modern UI components, web frameworks, and backend services.*
 
-- [**oscar-soirey/Raven**](https://github.com/oscar-soirey/Raven) — A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Java, Python, Zig, Lua, Go, Odin
-  `C` · `2k stars` · `87 forks` · `Apache 2.0`
-
-- [**tcchen2026/VibeOffice**](https://github.com/tcchen2026/VibeOffice) — A free office suite that runs in your browser, in the 2000s style. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.
-  `JavaScript` · `1.3k stars` · `176 forks` · `Apache 2.0`
+- [**livliv-dev/player**](https://github.com/livliv-dev/player) — A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
+  `TypeScript` · `983 stars` · `103 forks` · `Apache 2.0` · *#avatar #character #face-tracking*
 
 - [**kuraeow/ultratears**](https://github.com/kuraeow/ultratears) — Unofficial native PC and Steam Deck port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.
-  `C` · `776 stars` · `40 forks` · `GNU General Public v3.0` · *#arm64 #arm64-x86 #game-port*
+  `C` · `797 stars` · `40 forks` · `GNU General Public v3.0` · *#arm64 #arm64-x86 #game-port*
+
+- [**ELY-Open-Source/ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) — Ely Office: offline-first desktop apps in Rust and GPUI
+  `Rust` · `1.2k stars` · `86 forks` · `MIT`
 
 ---
 
@@ -81,7 +81,7 @@ All past selections are permanently preserved under [`archives/`](archives/):
 
 | Year / Month | Reports | Latest Days |
 |:---|:---:|:---|
-| **2026 / 11-November** | 2 | [`2026-11-06`](archives/2026/11-November/2026-11-06.md), [`2026-11-05`](archives/2026/11-November/2026-11-05.md) |
+| **2026 / 11-November** | 3 | [`2026-11-07`](archives/2026/11-November/2026-11-07.md), [`2026-11-06`](archives/2026/11-November/2026-11-06.md), [`2026-11-05`](archives/2026/11-November/2026-11-05.md) |
 
 ## Evaluation Criteria
 
