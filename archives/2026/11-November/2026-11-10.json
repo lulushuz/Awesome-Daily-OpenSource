@@ -1,0 +1,500 @@
+{
+  "date": "2026-11-10",
+  "year": "2026",
+  "month": "11",
+  "monthName": "November",
+  "timestamp": "2026-11-10T05:37:02.234Z",
+  "totalCount": 15,
+  "categories": [
+    {
+      "id": "top_pick",
+      "title": "Top Picks",
+      "description": "The fastest-accelerating, highest-impact open-source tools of the day.",
+      "repos": [
+        {
+          "id": "1432883796",
+          "name": "agent-purge",
+          "fullName": "ZiChuanLan/agent-purge",
+          "owner": {
+            "username": "ZiChuanLan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139305401?v=4",
+            "githubUrl": "https://github.com/ZiChuanLan"
+          },
+          "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
+          "primaryLanguage": "JavaScript",
+          "stars": 1531,
+          "forks": 939,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "deepseek-harness",
+            "harness"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 159,
+          "createdAt": "2026-10-25T06:06:02Z",
+          "pushedAt": "2026-11-09T09:06:48Z"
+        },
+        {
+          "id": "1422344223",
+          "name": "reason-network",
+          "fullName": "reason-machines/reason-network",
+          "owner": {
+            "username": "reason-machines",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/259454516?v=4",
+            "githubUrl": "https://github.com/reason-machines"
+          },
+          "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "pitch": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "repoUrl": "https://github.com/reason-machines/reason-network",
+          "homepageUrl": "https://reasonmachines.com",
+          "primaryLanguage": "Rust",
+          "stars": 1697,
+          "forks": 151,
+          "openIssues": 32,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "agent-to-agent",
+            "ai-agents",
+            "claude-code",
+            "codex",
+            "coding-agents"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 158,
+          "createdAt": "2026-10-16T15:34:34Z",
+          "pushedAt": "2026-11-09T11:40:10Z"
+        },
+        {
+          "id": "1445112696",
+          "name": "player",
+          "fullName": "livliv-dev/player",
+          "owner": {
+            "username": "livliv-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/352250088?v=4",
+            "githubUrl": "https://github.com/livliv-dev"
+          },
+          "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "pitch": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "repoUrl": "https://github.com/livliv-dev/player",
+          "homepageUrl": "https://livliv-dev.github.io/player/",
+          "primaryLanguage": "TypeScript",
+          "stars": 1417,
+          "forks": 147,
+          "openIssues": 1,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "avatar",
+            "character",
+            "face-tracking",
+            "lip-sync",
+            "pngtuber"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 156,
+          "createdAt": "2026-11-04T03:28:33Z",
+          "pushedAt": "2026-11-09T06:08:52Z"
+        }
+      ]
+    },
+    {
+      "id": "ai_ml",
+      "title": "AI & Machine Learning",
+      "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
+      "repos": [
+        {
+          "id": "1430513158",
+          "name": "BeautifulRust",
+          "fullName": "morganlinton/BeautifulRust",
+          "owner": {
+            "username": "morganlinton",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/41390763?v=4",
+            "githubUrl": "https://github.com/morganlinton"
+          },
+          "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+          "pitch": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+          "repoUrl": "https://github.com/morganlinton/BeautifulRust",
+          "homepageUrl": "https://www.beautifulrust.dev",
+          "primaryLanguage": "Python",
+          "stars": 1774,
+          "forks": 92,
+          "openIssues": 5,
+          "licenseName": "MIT License",
+          "tags": [
+            "agent-skills",
+            "claude-code",
+            "claude-plugin",
+            "claude-skills",
+            "clippy"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 156,
+          "createdAt": "2026-10-23T03:01:11Z",
+          "pushedAt": "2026-11-08T17:21:11Z"
+        },
+        {
+          "id": "1420259750",
+          "name": "Claude-Guardian",
+          "fullName": "DUNHKpcc/Claude-Guardian",
+          "owner": {
+            "username": "DUNHKpcc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/181722286?v=4",
+            "githubUrl": "https://github.com/DUNHKpcc"
+          },
+          "description": "Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups. ",
+          "pitch": "Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups. ",
+          "repoUrl": "https://github.com/DUNHKpcc/Claude-Guardian",
+          "homepageUrl": "https://api.dpccgaming.xyz/guardian",
+          "primaryLanguage": "Python",
+          "stars": 1902,
+          "forks": 243,
+          "openIssues": 4,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "agent-skills",
+            "ai-tools",
+            "claude-code",
+            "claude-skills",
+            "codex-skill"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 153,
+          "createdAt": "2026-10-15T06:09:53Z",
+          "pushedAt": "2026-11-09T07:19:51Z"
+        },
+        {
+          "id": "1447145240",
+          "name": "poki",
+          "fullName": "JosssphZhou/poki",
+          "owner": {
+            "username": "JosssphZhou",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/260232027?v=4",
+            "githubUrl": "https://github.com/JosssphZhou"
+          },
+          "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+          "pitch": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+          "repoUrl": "https://github.com/JosssphZhou/poki",
+          "homepageUrl": "https://poki.bot",
+          "primaryLanguage": "Swift",
+          "stars": 799,
+          "forks": 167,
+          "openIssues": 38,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "ai-agents",
+            "automation",
+            "ios",
+            "iphone",
+            "mcp"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 151,
+          "createdAt": "2026-11-05T15:04:31Z",
+          "pushedAt": "2026-11-10T03:44:35Z"
+        },
+        {
+          "id": "1439885901",
+          "name": "sapper-v2",
+          "fullName": "N1nEmAn/sapper-v2",
+          "owner": {
+            "username": "N1nEmAn",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/118088443?v=4",
+            "githubUrl": "https://github.com/N1nEmAn"
+          },
+          "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+          "pitch": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+          "repoUrl": "https://github.com/N1nEmAn/sapper-v2",
+          "primaryLanguage": "Python",
+          "stars": 1813,
+          "forks": 926,
+          "openIssues": 3,
+          "licenseName": "MIT License",
+          "tags": [
+            "ai-agents",
+            "autonomous-agents",
+            "claude-code",
+            "ctf",
+            "llm"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 151,
+          "createdAt": "2026-10-30T15:12:35Z",
+          "pushedAt": "2026-11-09T07:52:33Z"
+        },
+        {
+          "id": "1436993930",
+          "name": "ff-ruyijs",
+          "fullName": "cutetailbud/ff-ruyijs",
+          "owner": {
+            "username": "cutetailbud",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/212403118?v=4",
+            "githubUrl": "https://github.com/cutetailbud"
+          },
+          "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "pitch": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
+          "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
+          "primaryLanguage": "C++",
+          "stars": 1200,
+          "forks": 335,
+          "openIssues": 4,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "anti-bot",
+            "automation",
+            "firefox",
+            "headless-browser",
+            "javascript"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 150,
+          "createdAt": "2026-10-28T11:31:41Z",
+          "pushedAt": "2026-11-09T09:11:51Z"
+        },
+        {
+          "id": "1436650356",
+          "name": "KIKUmap",
+          "fullName": "tang1693/KIKUmap",
+          "owner": {
+            "username": "tang1693",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/85510879?v=4",
+            "githubUrl": "https://github.com/tang1693"
+          },
+          "description": "A mind map for your Claude/ChatGPT chats — macOS menu-bar app",
+          "pitch": "A mind map for your Claude/ChatGPT chats — macOS menu-bar app",
+          "repoUrl": "https://github.com/tang1693/KIKUmap",
+          "homepageUrl": "https://tang1693.github.io/KIKUmap/",
+          "primaryLanguage": "Swift",
+          "stars": 974,
+          "forks": 100,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "claude",
+            "gpt",
+            "mac",
+            "menu-bar-app",
+            "mind-map"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 150,
+          "createdAt": "2026-10-28T05:38:50Z",
+          "pushedAt": "2026-11-09T17:10:36Z"
+        }
+      ]
+    },
+    {
+      "id": "devtools_cli",
+      "title": "DevTools & Systems",
+      "description": "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
+      "repos": [
+        {
+          "id": "1417558351",
+          "name": "wxa-runner",
+          "fullName": "open-wxa/wxa-runner",
+          "owner": {
+            "username": "open-wxa",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/341914348?v=4",
+            "githubUrl": "https://github.com/open-wxa"
+          },
+          "description": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
+          "pitch": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
+          "repoUrl": "https://github.com/open-wxa/wxa-runner",
+          "homepageUrl": "https://open-wxa.github.io/wxa-runner/",
+          "primaryLanguage": "TypeScript",
+          "stars": 1178,
+          "forks": 136,
+          "openIssues": 5,
+          "licenseName": "MIT License",
+          "tags": [
+            "e2e-testing",
+            "mini-program",
+            "miniprogram",
+            "playwright",
+            "simulator"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 154,
+          "createdAt": "2026-10-13T17:06:51Z",
+          "pushedAt": "2026-11-09T02:03:08Z"
+        },
+        {
+          "id": "1439430391",
+          "name": "florilegium",
+          "fullName": "kevinraymond/florilegium",
+          "owner": {
+            "username": "kevinraymond",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19157136?v=4",
+            "githubUrl": "https://github.com/kevinraymond"
+          },
+          "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+          "pitch": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+          "repoUrl": "https://github.com/kevinraymond/florilegium",
+          "homepageUrl": "https://kevinraymond.github.io/florilegium/",
+          "primaryLanguage": "TeX",
+          "stars": 1612,
+          "forks": 48,
+          "openIssues": 0,
+          "licenseName": "MIT License",
+          "tags": [
+            "botanical-illustration",
+            "generative-art",
+            "latex",
+            "latex-package",
+            "lua"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 151,
+          "createdAt": "2026-10-30T07:49:05Z",
+          "pushedAt": "2026-11-09T18:33:26Z"
+        },
+        {
+          "id": "1415551131",
+          "name": "Argus",
+          "fullName": "Ray-lea/Argus",
+          "owner": {
+            "username": "Ray-lea",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/101520596?v=4",
+            "githubUrl": "https://github.com/Ray-lea"
+          },
+          "description": "现代 Windows 任务管理器 · A modern task manager for Windows, built with Rust and GPUI Kit.",
+          "pitch": "现代 Windows 任务管理器 · A modern task manager for Windows, built with Rust and GPUI Kit.",
+          "repoUrl": "https://github.com/Ray-lea/Argus",
+          "homepageUrl": "https://argustask.com",
+          "primaryLanguage": "Rust",
+          "stars": 1127,
+          "forks": 53,
+          "openIssues": 19,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "gpui",
+            "process-manager",
+            "rust",
+            "system-monitor",
+            "task-manager"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 147,
+          "createdAt": "2026-10-12T12:11:07Z",
+          "pushedAt": "2026-11-10T03:02:43Z"
+        }
+      ]
+    },
+    {
+      "id": "web_fullstack",
+      "title": "Web & Fullstack",
+      "description": "Modern UI components, web frameworks, and backend services.",
+      "repos": [
+        {
+          "id": "1426270002",
+          "name": "ElyOffice",
+          "fullName": "ELY-Open-Source/ElyOffice",
+          "owner": {
+            "username": "ELY-Open-Source",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/345003095?v=4",
+            "githubUrl": "https://github.com/ELY-Open-Source"
+          },
+          "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+          "pitch": "Ely Office: offline-first desktop apps in Rust and GPUI",
+          "repoUrl": "https://github.com/ELY-Open-Source/ElyOffice",
+          "homepageUrl": "https://office.elygpui.com",
+          "primaryLanguage": "Rust",
+          "stars": 1445,
+          "forks": 94,
+          "openIssues": 16,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 144,
+          "createdAt": "2026-10-19T23:04:42Z",
+          "pushedAt": "2026-11-10T04:59:46Z"
+        },
+        {
+          "id": "1446725477",
+          "name": "CUI",
+          "fullName": "yappologistic/CUI",
+          "owner": {
+            "username": "yappologistic",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/262229790?v=4",
+            "githubUrl": "https://github.com/yappologistic"
+          },
+          "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+          "pitch": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+          "repoUrl": "https://github.com/yappologistic/CUI",
+          "primaryLanguage": "C",
+          "stars": 753,
+          "forks": 41,
+          "openIssues": 12,
+          "licenseName": "MIT License",
+          "tags": [
+            "c",
+            "c99",
+            "cross-platform",
+            "gui",
+            "native"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 131,
+          "createdAt": "2026-11-05T08:18:08Z",
+          "pushedAt": "2026-11-10T03:44:17Z"
+        },
+        {
+          "id": "1442519465",
+          "name": "dsh-media-desk",
+          "fullName": "woniuniuniu/dsh-media-desk",
+          "owner": {
+            "username": "woniuniuniu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/153842595?v=4",
+            "githubUrl": "https://github.com/woniuniuniu"
+          },
+          "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+          "pitch": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+          "repoUrl": "https://github.com/woniuniuniu/dsh-media-desk",
+          "homepageUrl": "https://www.npmjs.com/package/dsh-media-desk",
+          "primaryLanguage": "JavaScript",
+          "stars": 678,
+          "forks": 50,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "content-creation",
+            "deepseek",
+            "deepseek-harness",
+            "dsh-plugin",
+            "xiaohongshu"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 131,
+          "createdAt": "2026-11-02T04:49:29Z",
+          "pushedAt": "2026-11-08T03:58:14Z"
+        }
+      ]
+    },
+    {
+      "id": "hidden_gem",
+      "title": "Hidden Gems",
+      "description": "Early-stage repos (< 250 stars) with exceptional engineering and novelty.",
+      "repos": []
+    }
+  ]
+}
