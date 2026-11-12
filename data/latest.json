@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "year": "2026",
   "month": "11",
   "monthName": "November",
-  "timestamp": "2026-11-11T04:09:20.146Z",
+  "timestamp": "2026-11-12T05:21:09.773Z",
   "totalCount": 15,
   "categories": [
     {
@@ -12,34 +12,35 @@
       "description": "The fastest-accelerating, highest-impact open-source tools of the day.",
       "repos": [
         {
-          "id": "1432883796",
-          "name": "agent-purge",
-          "fullName": "ZiChuanLan/agent-purge",
+          "id": "1439885901",
+          "name": "sapper-v2",
+          "fullName": "N1nEmAn/sapper-v2",
           "owner": {
-            "username": "ZiChuanLan",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/139305401?v=4",
-            "githubUrl": "https://github.com/ZiChuanLan"
+            "username": "N1nEmAn",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/118088443?v=4",
+            "githubUrl": "https://github.com/N1nEmAn"
           },
-          "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-          "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-          "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
-          "primaryLanguage": "JavaScript",
-          "stars": 1580,
-          "forks": 959,
-          "openIssues": 1,
+          "description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
+          "pitch": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
+          "repoUrl": "https://github.com/N1nEmAn/sapper-v2",
+          "homepageUrl": "https://github.com/N1nEmAn/nvwabase",
+          "primaryLanguage": "Python",
+          "stars": 1996,
+          "forks": 1017,
+          "openIssues": 3,
           "licenseName": "MIT License",
           "tags": [
-            "claude-code",
-            "codex",
-            "coding-agent",
-            "deepseek-harness",
-            "harness"
+            "agentic-workflows",
+            "ai-agents",
+            "ai-security",
+            "autonomous-agents",
+            "claude-code"
           ],
           "category": "top_pick",
           "categoryLabel": "Top Picks",
-          "curatorScore": 160,
-          "createdAt": "2026-10-25T06:06:02Z",
-          "pushedAt": "2026-11-09T09:06:48Z"
+          "curatorScore": 173,
+          "createdAt": "2026-10-30T15:12:35Z",
+          "pushedAt": "2026-11-11T12:18:45Z"
         },
         {
           "id": "1422344223",
@@ -55,9 +56,9 @@
           "repoUrl": "https://github.com/reason-machines/reason-network",
           "homepageUrl": "https://reasonmachines.com",
           "primaryLanguage": "Rust",
-          "stars": 1716,
-          "forks": 153,
-          "openIssues": 34,
+          "stars": 1729,
+          "forks": 154,
+          "openIssues": 37,
           "licenseName": "Apache License 2.0",
           "tags": [
             "agent-to-agent",
@@ -70,7 +71,7 @@
           "categoryLabel": "Top Picks",
           "curatorScore": 159,
           "createdAt": "2026-10-16T15:34:34Z",
-          "pushedAt": "2026-11-11T03:27:35Z"
+          "pushedAt": "2026-11-11T09:36:10Z"
         },
         {
           "id": "1445112696",
@@ -86,9 +87,9 @@
           "repoUrl": "https://github.com/livliv-dev/player",
           "homepageUrl": "https://livliv-dev.github.io/player/",
           "primaryLanguage": "TypeScript",
-          "stars": 1468,
-          "forks": 154,
-          "openIssues": 2,
+          "stars": 1497,
+          "forks": 157,
+          "openIssues": 3,
           "licenseName": "Apache License 2.0",
           "tags": [
             "avatar",
@@ -124,9 +125,9 @@
           "repoUrl": "https://github.com/libracoder/kiri",
           "homepageUrl": "https://runkiri.com",
           "primaryLanguage": "Rust",
-          "stars": 1480,
-          "forks": 95,
-          "openIssues": 38,
+          "stars": 1647,
+          "forks": 100,
+          "openIssues": 51,
           "licenseName": "Apache License 2.0",
           "tags": [
             "containers",
@@ -137,40 +138,9 @@
           ],
           "category": "ai_ml",
           "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 154,
+          "curatorScore": 155,
           "createdAt": "2026-11-02T16:11:30Z",
-          "pushedAt": "2026-11-11T02:14:38Z"
-        },
-        {
-          "id": "1447145240",
-          "name": "poki",
-          "fullName": "JosssphZhou/poki",
-          "owner": {
-            "username": "JosssphZhou",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/260232027?v=4",
-            "githubUrl": "https://github.com/JosssphZhou"
-          },
-          "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-          "pitch": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-          "repoUrl": "https://github.com/JosssphZhou/poki",
-          "homepageUrl": "https://poki.bot",
-          "primaryLanguage": "Swift",
-          "stars": 934,
-          "forks": 176,
-          "openIssues": 22,
-          "licenseName": "GNU Affero General Public License v3.0",
-          "tags": [
-            "ai-agents",
-            "automation",
-            "ios",
-            "iphone",
-            "mcp"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 153,
-          "createdAt": "2026-11-05T15:04:31Z",
-          "pushedAt": "2026-11-11T04:04:14Z"
+          "pushedAt": "2026-11-12T01:29:44Z"
         },
         {
           "id": "1420259750",
@@ -186,9 +156,9 @@
           "repoUrl": "https://github.com/DUNHKpcc/Claude-Guardian",
           "homepageUrl": "https://api.dpccgaming.xyz/guardian",
           "primaryLanguage": "Python",
-          "stars": 1940,
-          "forks": 246,
-          "openIssues": 2,
+          "stars": 1972,
+          "forks": 247,
+          "openIssues": 3,
           "licenseName": "GNU General Public License v3.0",
           "tags": [
             "agent-skills",
@@ -201,37 +171,7 @@
           "categoryLabel": "AI & Machine Learning",
           "curatorScore": 153,
           "createdAt": "2026-10-15T06:09:53Z",
-          "pushedAt": "2026-11-11T00:51:25Z"
-        },
-        {
-          "id": "1439885901",
-          "name": "sapper-v2",
-          "fullName": "N1nEmAn/sapper-v2",
-          "owner": {
-            "username": "N1nEmAn",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/118088443?v=4",
-            "githubUrl": "https://github.com/N1nEmAn"
-          },
-          "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-          "pitch": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-          "repoUrl": "https://github.com/N1nEmAn/sapper-v2",
-          "primaryLanguage": "Python",
-          "stars": 1880,
-          "forks": 967,
-          "openIssues": 3,
-          "licenseName": "MIT License",
-          "tags": [
-            "ai-agents",
-            "autonomous-agents",
-            "claude-code",
-            "ctf",
-            "llm"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "Featured",
-          "curatorScore": 152,
-          "createdAt": "2026-10-30T15:12:35Z",
-          "pushedAt": "2026-11-09T07:52:33Z"
+          "pushedAt": "2026-11-11T15:34:09Z"
         },
         {
           "id": "1444005452",
@@ -247,9 +187,9 @@
           "repoUrl": "https://github.com/Sandflow-ai/sand3d",
           "homepageUrl": "https://sandflow.ai/sand3d/",
           "primaryLanguage": "HTML",
-          "stars": 1781,
-          "forks": 198,
-          "openIssues": 12,
+          "stars": 1873,
+          "forks": 206,
+          "openIssues": 13,
           "licenseName": "Apache License 2.0",
           "tags": [
             "3d",
@@ -259,41 +199,149 @@
             "procedural-modeling"
           ],
           "category": "ai_ml",
-          "categoryLabel": "Featured",
-          "curatorScore": 151,
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 152,
           "createdAt": "2026-11-03T08:23:03Z",
-          "pushedAt": "2026-11-10T15:31:49Z"
+          "pushedAt": "2026-11-11T11:48:05Z"
         },
         {
-          "id": "1421490995",
-          "name": "kividb",
-          "fullName": "kividbio/kividb",
+          "id": "1432590994",
+          "name": "kensaku",
+          "fullName": "yjid/kensaku",
           "owner": {
-            "username": "kividbio",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/263324995?v=4",
-            "githubUrl": "https://github.com/kividbio"
+            "username": "yjid",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/178333324?v=4",
+            "githubUrl": "https://github.com/yjid"
           },
-          "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
-          "pitch": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
-          "repoUrl": "https://github.com/kividbio/kividb",
-          "homepageUrl": "https://kividb.io",
+          "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+          "pitch": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+          "repoUrl": "https://github.com/yjid/kensaku",
           "primaryLanguage": "Rust",
-          "stars": 1061,
-          "forks": 109,
-          "openIssues": 87,
-          "licenseName": "GNU Affero General Public License v3.0",
+          "stars": 1660,
+          "forks": 108,
+          "openIssues": 16,
+          "licenseName": "MIT License",
           "tags": [
-            "cache",
-            "database",
-            "dragonfly-alternative",
-            "drop-in-replacement",
+            "ai-agents",
+            "desktop",
+            "desktop-search",
+            "file-search",
             "full-text-search"
           ],
           "category": "ai_ml",
           "categoryLabel": "Featured",
-          "curatorScore": 151,
-          "createdAt": "2026-10-16T01:07:52Z",
-          "pushedAt": "2026-11-11T00:56:41Z"
+          "curatorScore": 146,
+          "createdAt": "2026-10-24T21:00:26Z",
+          "pushedAt": "2026-11-10T14:06:14Z"
+        },
+        {
+          "id": "1426181476",
+          "name": "oink",
+          "fullName": "oinkvm/oink",
+          "owner": {
+            "username": "oinkvm",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/341654504?v=4",
+            "githubUrl": "https://github.com/oinkvm"
+          },
+          "description": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
+          "pitch": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
+          "repoUrl": "https://github.com/oinkvm/oink",
+          "primaryLanguage": "Rust",
+          "stars": 1371,
+          "forks": 115,
+          "openIssues": 25,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "audio-sharing",
+            "barrier-alternative",
+            "clipboard-sync",
+            "cross-platform",
+            "drag-and-drop"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 144,
+          "createdAt": "2026-10-19T21:08:57Z",
+          "pushedAt": "2026-11-12T00:10:34Z"
+        },
+        {
+          "id": "1440096236",
+          "name": "trnrt",
+          "fullName": "RunanywhereAI/trnrt",
+          "owner": {
+            "username": "RunanywhereAI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/220821781?v=4",
+            "githubUrl": "https://github.com/RunanywhereAI"
+          },
+          "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+          "pitch": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+          "repoUrl": "https://github.com/RunanywhereAI/trnrt",
+          "homepageUrl": "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels",
+          "primaryLanguage": "Python",
+          "stars": 1339,
+          "forks": 14,
+          "openIssues": 11,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "aws",
+            "glm",
+            "inference",
+            "llm",
+            "llm-serving"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 141,
+          "createdAt": "2026-10-30T18:30:04Z",
+          "pushedAt": "2026-11-11T10:04:47Z"
+        },
+        {
+          "id": "1448515937",
+          "name": "pinky",
+          "fullName": "DIYgod/pinky",
+          "owner": {
+            "username": "DIYgod",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8266075?v=4",
+            "githubUrl": "https://github.com/DIYgod"
+          },
+          "description": "Let AI agents use your phone, with you in the loop.",
+          "pitch": "Let AI agents use your phone, with you in the loop.",
+          "repoUrl": "https://github.com/DIYgod/pinky",
+          "primaryLanguage": "Go",
+          "stars": 1898,
+          "forks": 197,
+          "openIssues": 24,
+          "licenseName": "Apache License 2.0",
+          "tags": [],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 141,
+          "createdAt": "2026-11-06T16:53:14Z",
+          "pushedAt": "2026-11-12T05:17:45Z"
+        },
+        {
+          "id": "1440888502",
+          "name": "airhand",
+          "fullName": "sqlpxc/airhand",
+          "owner": {
+            "username": "sqlpxc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/38583139?v=4",
+            "githubUrl": "https://github.com/sqlpxc"
+          },
+          "description": "High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to 120 fps Windows · macOS · Linux · Android · browser",
+          "pitch": "High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to 120 fps Windows · macOS · Linux · Android · browser",
+          "repoUrl": "https://github.com/sqlpxc/airhand",
+          "primaryLanguage": "Rust",
+          "stars": 1206,
+          "forks": 134,
+          "openIssues": 3,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 134,
+          "createdAt": "2026-10-31T13:33:04Z",
+          "pushedAt": "2026-11-11T16:49:13Z"
         }
       ]
     },
@@ -302,62 +350,6 @@
       "title": "DevTools & Systems",
       "description": "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
       "repos": [
-        {
-          "id": "1417558351",
-          "name": "wxa-runner",
-          "fullName": "open-wxa/wxa-runner",
-          "owner": {
-            "username": "open-wxa",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/341914348?v=4",
-            "githubUrl": "https://github.com/open-wxa"
-          },
-          "description": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
-          "pitch": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
-          "repoUrl": "https://github.com/open-wxa/wxa-runner",
-          "homepageUrl": "https://open-wxa.github.io/wxa-runner/",
-          "primaryLanguage": "TypeScript",
-          "stars": 1210,
-          "forks": 138,
-          "openIssues": 5,
-          "licenseName": "MIT License",
-          "tags": [
-            "e2e-testing",
-            "mini-program",
-            "miniprogram",
-            "playwright",
-            "simulator"
-          ],
-          "category": "devtools_cli",
-          "categoryLabel": "DevTools & Systems",
-          "curatorScore": 154,
-          "createdAt": "2026-10-13T17:06:51Z",
-          "pushedAt": "2026-11-09T02:03:08Z"
-        },
-        {
-          "id": "1447408881",
-          "name": "chimera-vocal-synth",
-          "fullName": "jamesondh/chimera-vocal-synth",
-          "owner": {
-            "username": "jamesondh",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4026659?v=4",
-            "githubUrl": "https://github.com/jamesondh"
-          },
-          "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-          "pitch": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-          "repoUrl": "https://github.com/jamesondh/chimera-vocal-synth",
-          "homepageUrl": "https://chimera-vocal-synth.vercel.app",
-          "primaryLanguage": "Rust",
-          "stars": 1739,
-          "forks": 202,
-          "openIssues": 33,
-          "licenseName": "MIT License",
-          "tags": [],
-          "category": "devtools_cli",
-          "categoryLabel": "DevTools & Systems",
-          "curatorScore": 151,
-          "createdAt": "2026-11-05T19:10:42Z",
-          "pushedAt": "2026-11-10T21:36:34Z"
-        },
         {
           "id": "1439430391",
           "name": "florilegium",
@@ -372,9 +364,9 @@
           "repoUrl": "https://github.com/kevinraymond/florilegium",
           "homepageUrl": "https://kevinraymond.github.io/florilegium/",
           "primaryLanguage": "TeX",
-          "stars": 1622,
-          "forks": 49,
-          "openIssues": 0,
+          "stars": 1636,
+          "forks": 50,
+          "openIssues": 1,
           "licenseName": "MIT License",
           "tags": [
             "botanical-illustration",
@@ -387,7 +379,61 @@
           "categoryLabel": "DevTools & Systems",
           "curatorScore": 151,
           "createdAt": "2026-10-30T07:49:05Z",
-          "pushedAt": "2026-11-10T20:18:55Z"
+          "pushedAt": "2026-11-11T12:17:03Z"
+        },
+        {
+          "id": "1418930230",
+          "name": "Orpheon",
+          "fullName": "kota-zo/Orpheon",
+          "owner": {
+            "username": "kota-zo",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/193484410?v=4",
+            "githubUrl": "https://github.com/kota-zo"
+          },
+          "description": "Native Android client for Spotify, built with Jetpack Compose",
+          "pitch": "Native Android client for Spotify, built with Jetpack Compose",
+          "repoUrl": "https://github.com/kota-zo/Orpheon",
+          "primaryLanguage": "Kotlin",
+          "stars": 1929,
+          "forks": 107,
+          "openIssues": 158,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "ad-free",
+            "adblock",
+            "android",
+            "apple-music",
+            "jetpack-compose"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 148,
+          "createdAt": "2026-10-14T13:01:34Z",
+          "pushedAt": "2026-11-12T00:52:24Z"
+        },
+        {
+          "id": "1452123445",
+          "name": "Erosion-CN",
+          "fullName": "Kianuni/Erosion-CN",
+          "owner": {
+            "username": "Kianuni",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/354704145?v=4",
+            "githubUrl": "https://github.com/Kianuni"
+          },
+          "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+          "pitch": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+          "repoUrl": "https://github.com/Kianuni/Erosion-CN",
+          "primaryLanguage": "Swift",
+          "stars": 1620,
+          "forks": 363,
+          "openIssues": 11,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 144,
+          "createdAt": "2026-11-10T02:37:31Z",
+          "pushedAt": "2026-11-11T13:23:15Z"
         }
       ]
     },
@@ -410,77 +456,16 @@
           "repoUrl": "https://github.com/ELY-Open-Source/ElyOffice",
           "homepageUrl": "https://office.elygpui.com",
           "primaryLanguage": "Rust",
-          "stars": 1461,
+          "stars": 1480,
           "forks": 94,
-          "openIssues": 12,
+          "openIssues": 6,
           "licenseName": "MIT License",
           "tags": [],
           "category": "web_fullstack",
           "categoryLabel": "Web & Fullstack",
           "curatorScore": 144,
           "createdAt": "2026-10-19T23:04:42Z",
-          "pushedAt": "2026-11-11T02:15:32Z"
-        },
-        {
-          "id": "1446725477",
-          "name": "CUI",
-          "fullName": "yappologistic/CUI",
-          "owner": {
-            "username": "yappologistic",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/262229790?v=4",
-            "githubUrl": "https://github.com/yappologistic"
-          },
-          "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
-          "pitch": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
-          "repoUrl": "https://github.com/yappologistic/CUI",
-          "primaryLanguage": "C",
-          "stars": 884,
-          "forks": 51,
-          "openIssues": 17,
-          "licenseName": "MIT License",
-          "tags": [
-            "c",
-            "c99",
-            "cross-platform",
-            "gui",
-            "native"
-          ],
-          "category": "web_fullstack",
-          "categoryLabel": "Web & Fullstack",
-          "curatorScore": 134,
-          "createdAt": "2026-11-05T08:18:08Z",
-          "pushedAt": "2026-11-11T01:21:41Z"
-        },
-        {
-          "id": "1442519465",
-          "name": "dsh-media-desk",
-          "fullName": "woniuniuniu/dsh-media-desk",
-          "owner": {
-            "username": "woniuniuniu",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/153842595?v=4",
-            "githubUrl": "https://github.com/woniuniuniu"
-          },
-          "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-          "pitch": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-          "repoUrl": "https://github.com/woniuniuniu/dsh-media-desk",
-          "homepageUrl": "https://www.npmjs.com/package/dsh-media-desk",
-          "primaryLanguage": "JavaScript",
-          "stars": 1004,
-          "forks": 97,
-          "openIssues": 5,
-          "licenseName": "MIT License",
-          "tags": [
-            "content-creation",
-            "deepseek",
-            "deepseek-harness",
-            "dsh-plugin",
-            "xiaohongshu"
-          ],
-          "category": "web_fullstack",
-          "categoryLabel": "Web & Fullstack",
-          "curatorScore": 133,
-          "createdAt": "2026-11-02T04:49:29Z",
-          "pushedAt": "2026-11-08T03:58:14Z"
+          "pushedAt": "2026-11-12T05:15:20Z"
         }
       ]
     },
