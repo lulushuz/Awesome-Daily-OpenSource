@@ -1,0 +1,480 @@
+{
+  "date": "2026-11-13",
+  "year": "2026",
+  "month": "11",
+  "monthName": "November",
+  "timestamp": "2026-11-13T04:36:02.567Z",
+  "totalCount": 15,
+  "categories": [
+    {
+      "id": "top_pick",
+      "title": "Top Picks",
+      "description": "The fastest-accelerating, highest-impact open-source tools of the day.",
+      "repos": [
+        {
+          "id": "1432883796",
+          "name": "agent-purge",
+          "fullName": "ZiChuanLan/agent-purge",
+          "owner": {
+            "username": "ZiChuanLan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139305401?v=4",
+            "githubUrl": "https://github.com/ZiChuanLan"
+          },
+          "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
+          "primaryLanguage": "JavaScript",
+          "stars": 1715,
+          "forks": 996,
+          "openIssues": 0,
+          "licenseName": "MIT License",
+          "tags": [
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "deepseek-harness",
+            "harness"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 161,
+          "createdAt": "2026-10-25T06:06:02Z",
+          "pushedAt": "2026-11-12T18:56:28Z"
+        },
+        {
+          "id": "1422344223",
+          "name": "reason-network",
+          "fullName": "reason-machines/reason-network",
+          "owner": {
+            "username": "reason-machines",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/259454516?v=4",
+            "githubUrl": "https://github.com/reason-machines"
+          },
+          "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "pitch": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+          "repoUrl": "https://github.com/reason-machines/reason-network",
+          "homepageUrl": "https://reasonmachines.com",
+          "primaryLanguage": "Rust",
+          "stars": 1738,
+          "forks": 154,
+          "openIssues": 38,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "agent-to-agent",
+            "ai-agents",
+            "claude-code",
+            "codex",
+            "coding-agents"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 159,
+          "createdAt": "2026-10-16T15:34:34Z",
+          "pushedAt": "2026-11-12T10:13:53Z"
+        },
+        {
+          "id": "1445112696",
+          "name": "player",
+          "fullName": "livliv-dev/player",
+          "owner": {
+            "username": "livliv-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/352250088?v=4",
+            "githubUrl": "https://github.com/livliv-dev"
+          },
+          "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "pitch": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "repoUrl": "https://github.com/livliv-dev/player",
+          "homepageUrl": "https://livliv-dev.github.io/player/",
+          "primaryLanguage": "TypeScript",
+          "stars": 1514,
+          "forks": 159,
+          "openIssues": 2,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "avatar",
+            "character",
+            "face-tracking",
+            "lip-sync",
+            "pngtuber"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 158,
+          "createdAt": "2026-11-04T03:28:33Z",
+          "pushedAt": "2026-11-13T02:00:13Z"
+        }
+      ]
+    },
+    {
+      "id": "ai_ml",
+      "title": "AI & Machine Learning",
+      "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
+      "repos": [
+        {
+          "id": "1443186633",
+          "name": "kiri",
+          "fullName": "libracoder/kiri",
+          "owner": {
+            "username": "libracoder",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32944039?v=4",
+            "githubUrl": "https://github.com/libracoder"
+          },
+          "description": "A small, fast container runtime for macOS, Windows and Linux",
+          "pitch": "A small, fast container runtime for macOS, Windows and Linux",
+          "repoUrl": "https://github.com/libracoder/kiri",
+          "homepageUrl": "https://runkiri.com",
+          "primaryLanguage": "Rust",
+          "stars": 1771,
+          "forks": 106,
+          "openIssues": 49,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "containers",
+            "docker",
+            "kubernetes",
+            "linux",
+            "macos"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 157,
+          "createdAt": "2026-11-02T16:11:30Z",
+          "pushedAt": "2026-11-13T00:49:34Z"
+        },
+        {
+          "id": "1444005452",
+          "name": "sand3d",
+          "fullName": "Sandflow-ai/sand3d",
+          "owner": {
+            "username": "Sandflow-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/335944997?v=4",
+            "githubUrl": "https://github.com/Sandflow-ai"
+          },
+          "description": "3D modeling in Python, built for LLMs.",
+          "pitch": "3D modeling in Python, built for LLMs.",
+          "repoUrl": "https://github.com/Sandflow-ai/sand3d",
+          "homepageUrl": "https://sandflow.ai/sand3d/",
+          "primaryLanguage": "HTML",
+          "stars": 1926,
+          "forks": 213,
+          "openIssues": 12,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "3d",
+            "blender",
+            "cad",
+            "llm",
+            "procedural-modeling"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 152,
+          "createdAt": "2026-11-03T08:23:03Z",
+          "pushedAt": "2026-11-12T16:28:07Z"
+        },
+        {
+          "id": "1434724807",
+          "name": "ui",
+          "fullName": "vercel-labs/ui",
+          "owner": {
+            "username": "vercel-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108547162?v=4",
+            "githubUrl": "https://github.com/vercel-labs"
+          },
+          "description": "A library of behaviors for agents to build the next generation of user interfaces.",
+          "pitch": "A library of behaviors for agents to build the next generation of user interfaces.",
+          "repoUrl": "https://github.com/vercel-labs/ui",
+          "homepageUrl": "https://ui-sdk.dev",
+          "primaryLanguage": "TypeScript",
+          "stars": 1991,
+          "forks": 37,
+          "openIssues": 3,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "accessibility",
+            "agent",
+            "agents",
+            "aria",
+            "behaviors"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 151,
+          "createdAt": "2026-10-26T17:39:27Z",
+          "pushedAt": "2026-11-12T20:45:19Z"
+        },
+        {
+          "id": "1436993930",
+          "name": "ff-ruyijs",
+          "fullName": "cutetailbud/ff-ruyijs",
+          "owner": {
+            "username": "cutetailbud",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/212403118?v=4",
+            "githubUrl": "https://github.com/cutetailbud"
+          },
+          "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "pitch": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
+          "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
+          "primaryLanguage": "C++",
+          "stars": 1228,
+          "forks": 349,
+          "openIssues": 12,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "anti-bot",
+            "automation",
+            "firefox",
+            "headless-browser",
+            "javascript"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 150,
+          "createdAt": "2026-10-28T11:31:41Z",
+          "pushedAt": "2026-11-11T11:39:05Z"
+        },
+        {
+          "id": "1450794567",
+          "name": "agentes-chat",
+          "fullName": "agentes-chat/agentes-chat",
+          "owner": {
+            "username": "agentes-chat",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/343980363?v=4",
+            "githubUrl": "https://github.com/agentes-chat"
+          },
+          "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+          "pitch": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+          "repoUrl": "https://github.com/agentes-chat/agentes-chat",
+          "homepageUrl": "https://agentes.chat",
+          "primaryLanguage": "TypeScript",
+          "stars": 1225,
+          "forks": 200,
+          "openIssues": 150,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "agentic-ai",
+            "ai-agents",
+            "browser-automation",
+            "chat",
+            "claude"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 147,
+          "createdAt": "2026-11-09T00:50:28Z",
+          "pushedAt": "2026-11-13T04:16:27Z"
+        },
+        {
+          "id": "1426181476",
+          "name": "oink",
+          "fullName": "oinkvm/oink",
+          "owner": {
+            "username": "oinkvm",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/341654504?v=4",
+            "githubUrl": "https://github.com/oinkvm"
+          },
+          "description": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
+          "pitch": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
+          "repoUrl": "https://github.com/oinkvm/oink",
+          "primaryLanguage": "Rust",
+          "stars": 1511,
+          "forks": 127,
+          "openIssues": 20,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "audio-sharing",
+            "barrier-alternative",
+            "clipboard-sync",
+            "cross-platform",
+            "drag-and-drop"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 146,
+          "createdAt": "2026-10-19T21:08:57Z",
+          "pushedAt": "2026-11-12T11:10:34Z"
+        }
+      ]
+    },
+    {
+      "id": "devtools_cli",
+      "title": "DevTools & Systems",
+      "description": "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
+      "repos": [
+        {
+          "id": "1439430391",
+          "name": "florilegium",
+          "fullName": "kevinraymond/florilegium",
+          "owner": {
+            "username": "kevinraymond",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19157136?v=4",
+            "githubUrl": "https://github.com/kevinraymond"
+          },
+          "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+          "pitch": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+          "repoUrl": "https://github.com/kevinraymond/florilegium",
+          "homepageUrl": "https://kevinraymond.github.io/florilegium/",
+          "primaryLanguage": "TeX",
+          "stars": 1650,
+          "forks": 51,
+          "openIssues": 0,
+          "licenseName": "MIT License",
+          "tags": [
+            "botanical-illustration",
+            "generative-art",
+            "latex",
+            "latex-package",
+            "lua"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 151,
+          "createdAt": "2026-10-30T07:49:05Z",
+          "pushedAt": "2026-11-12T21:09:26Z"
+        },
+        {
+          "id": "1452123445",
+          "name": "Erosion-CN",
+          "fullName": "Kianuni/Erosion-CN",
+          "owner": {
+            "username": "Kianuni",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/354704145?v=4",
+            "githubUrl": "https://github.com/Kianuni"
+          },
+          "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+          "pitch": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+          "repoUrl": "https://github.com/Kianuni/Erosion-CN",
+          "primaryLanguage": "Swift",
+          "stars": 1745,
+          "forks": 377,
+          "openIssues": 13,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 145,
+          "createdAt": "2026-11-10T02:37:31Z",
+          "pushedAt": "2026-11-13T03:31:11Z"
+        },
+        {
+          "id": "1445695976",
+          "name": "mygo-music",
+          "fullName": "egoist/mygo-music",
+          "owner": {
+            "username": "egoist",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?v=4",
+            "githubUrl": "https://github.com/egoist"
+          },
+          "description": "A native music player you extend with plugins",
+          "pitch": "A native music player you extend with plugins",
+          "repoUrl": "https://github.com/egoist/mygo-music",
+          "primaryLanguage": "Go",
+          "stars": 1282,
+          "forks": 216,
+          "openIssues": 90,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 128,
+          "createdAt": "2026-11-04T13:27:14Z",
+          "pushedAt": "2026-11-11T15:47:11Z"
+        }
+      ]
+    },
+    {
+      "id": "web_fullstack",
+      "title": "Web & Fullstack",
+      "description": "Modern UI components, web frameworks, and backend services.",
+      "repos": [
+        {
+          "id": "1442519465",
+          "name": "dsh-media-desk",
+          "fullName": "woniuniuniu/dsh-media-desk",
+          "owner": {
+            "username": "woniuniuniu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/153842595?v=4",
+            "githubUrl": "https://github.com/woniuniuniu"
+          },
+          "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+          "pitch": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+          "repoUrl": "https://github.com/woniuniuniu/dsh-media-desk",
+          "homepageUrl": "https://www.npmjs.com/package/dsh-media-desk",
+          "primaryLanguage": "JavaScript",
+          "stars": 1232,
+          "forks": 150,
+          "openIssues": 3,
+          "licenseName": "MIT License",
+          "tags": [
+            "content-creation",
+            "deepseek",
+            "deepseek-harness",
+            "dsh-plugin",
+            "xiaohongshu"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 145,
+          "createdAt": "2026-11-02T04:49:29Z",
+          "pushedAt": "2026-11-12T16:41:33Z"
+        },
+        {
+          "id": "1426270002",
+          "name": "ElyOffice",
+          "fullName": "ELY-Open-Source/ElyOffice",
+          "owner": {
+            "username": "ELY-Open-Source",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/345003095?v=4",
+            "githubUrl": "https://github.com/ELY-Open-Source"
+          },
+          "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+          "pitch": "Ely Office: offline-first desktop apps in Rust and GPUI",
+          "repoUrl": "https://github.com/ELY-Open-Source/ElyOffice",
+          "homepageUrl": "https://office.elygpui.com",
+          "primaryLanguage": "Rust",
+          "stars": 1495,
+          "forks": 94,
+          "openIssues": 7,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 144,
+          "createdAt": "2026-10-19T23:04:42Z",
+          "pushedAt": "2026-11-13T02:30:58Z"
+        },
+        {
+          "id": "1448807268",
+          "name": "ocarina-recomp",
+          "fullName": "sostenesfreitas/ocarina-recomp",
+          "owner": {
+            "username": "sostenesfreitas",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13871345?v=4",
+            "githubUrl": "https://github.com/sostenesfreitas"
+          },
+          "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+          "pitch": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+          "repoUrl": "https://github.com/sostenesfreitas/ocarina-recomp",
+          "primaryLanguage": "C",
+          "stars": 1171,
+          "forks": 77,
+          "openIssues": 97,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 130,
+          "createdAt": "2026-11-06T22:24:03Z",
+          "pushedAt": "2026-11-11T19:20:58Z"
+        }
+      ]
+    },
+    {
+      "id": "hidden_gem",
+      "title": "Hidden Gems",
+      "description": "Early-stage repos (< 250 stars) with exceptional engineering and novelty.",
+      "repos": []
+    }
+  ]
+}
