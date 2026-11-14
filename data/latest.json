@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "year": "2026",
   "month": "11",
   "monthName": "November",
-  "timestamp": "2026-11-13T04:36:02.567Z",
+  "timestamp": "2026-11-14T04:30:28.899Z",
   "totalCount": 15,
   "categories": [
     {
@@ -24,8 +24,8 @@
           "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
           "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
           "primaryLanguage": "JavaScript",
-          "stars": 1715,
-          "forks": 996,
+          "stars": 1756,
+          "forks": 1010,
           "openIssues": 0,
           "licenseName": "MIT License",
           "tags": [
@@ -39,7 +39,7 @@
           "categoryLabel": "Top Picks",
           "curatorScore": 161,
           "createdAt": "2026-10-25T06:06:02Z",
-          "pushedAt": "2026-11-12T18:56:28Z"
+          "pushedAt": "2026-11-13T10:35:30Z"
         },
         {
           "id": "1422344223",
@@ -55,8 +55,8 @@
           "repoUrl": "https://github.com/reason-machines/reason-network",
           "homepageUrl": "https://reasonmachines.com",
           "primaryLanguage": "Rust",
-          "stars": 1738,
-          "forks": 154,
+          "stars": 1740,
+          "forks": 155,
           "openIssues": 38,
           "licenseName": "Apache License 2.0",
           "tags": [
@@ -86,7 +86,7 @@
           "repoUrl": "https://github.com/livliv-dev/player",
           "homepageUrl": "https://livliv-dev.github.io/player/",
           "primaryLanguage": "TypeScript",
-          "stars": 1514,
+          "stars": 1534,
           "forks": 159,
           "openIssues": 2,
           "licenseName": "Apache License 2.0",
@@ -111,35 +111,97 @@
       "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
       "repos": [
         {
-          "id": "1443186633",
-          "name": "kiri",
-          "fullName": "libracoder/kiri",
+          "id": "1447145240",
+          "name": "poki",
+          "fullName": "JosssphZhou/poki",
           "owner": {
-            "username": "libracoder",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/32944039?v=4",
-            "githubUrl": "https://github.com/libracoder"
+            "username": "JosssphZhou",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/260232027?v=4",
+            "githubUrl": "https://github.com/JosssphZhou"
           },
-          "description": "A small, fast container runtime for macOS, Windows and Linux",
-          "pitch": "A small, fast container runtime for macOS, Windows and Linux",
-          "repoUrl": "https://github.com/libracoder/kiri",
-          "homepageUrl": "https://runkiri.com",
-          "primaryLanguage": "Rust",
-          "stars": 1771,
-          "forks": 106,
-          "openIssues": 49,
-          "licenseName": "Apache License 2.0",
+          "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+          "pitch": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+          "repoUrl": "https://github.com/JosssphZhou/poki",
+          "homepageUrl": "https://poki.bot",
+          "primaryLanguage": "Swift",
+          "stars": 1114,
+          "forks": 199,
+          "openIssues": 69,
+          "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
-            "containers",
-            "docker",
-            "kubernetes",
-            "linux",
-            "macos"
+            "ai-agents",
+            "automation",
+            "ios",
+            "iphone",
+            "mcp"
           ],
           "category": "ai_ml",
           "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 157,
-          "createdAt": "2026-11-02T16:11:30Z",
-          "pushedAt": "2026-11-13T00:49:34Z"
+          "curatorScore": 156,
+          "createdAt": "2026-11-05T15:04:31Z",
+          "pushedAt": "2026-11-14T04:17:54Z"
+        },
+        {
+          "id": "1424484225",
+          "name": "SAG-Wiki",
+          "fullName": "Zleap-AI/SAG-Wiki",
+          "owner": {
+            "username": "Zleap-AI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/239856193?v=4",
+            "githubUrl": "https://github.com/Zleap-AI"
+          },
+          "description": "A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval.",
+          "pitch": "A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval.",
+          "repoUrl": "https://github.com/Zleap-AI/SAG-Wiki",
+          "homepageUrl": "https://sag-wiki.zleap.com",
+          "primaryLanguage": "Rust",
+          "stars": 1177,
+          "forks": 140,
+          "openIssues": 8,
+          "licenseName": "MIT License",
+          "tags": [
+            "knowledge-base",
+            "knowledge-graph",
+            "rag",
+            "rust",
+            "sag"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 154,
+          "createdAt": "2026-10-18T14:51:30Z",
+          "pushedAt": "2026-11-14T04:19:23Z"
+        },
+        {
+          "id": "1438254436",
+          "name": "llama-modchip",
+          "fullName": "synchopate/llama-modchip",
+          "owner": {
+            "username": "synchopate",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76195533?v=4",
+            "githubUrl": "https://github.com/synchopate"
+          },
+          "description": "Run 284B DeepSeek-V4-Flash (<59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).",
+          "pitch": "Run 284B DeepSeek-V4-Flash (<59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).",
+          "repoUrl": "https://github.com/synchopate/llama-modchip",
+          "homepageUrl": "https://github.com/synchopate/llama-modchip#readme",
+          "primaryLanguage": "Python",
+          "stars": 1197,
+          "forks": 108,
+          "openIssues": 28,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "ai-agents",
+            "apple-silicon",
+            "avx512",
+            "claude-code",
+            "cpu-inference"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 153,
+          "createdAt": "2026-10-29T10:17:33Z",
+          "pushedAt": "2026-11-13T07:54:56Z"
         },
         {
           "id": "1444005452",
@@ -155,9 +217,9 @@
           "repoUrl": "https://github.com/Sandflow-ai/sand3d",
           "homepageUrl": "https://sandflow.ai/sand3d/",
           "primaryLanguage": "HTML",
-          "stars": 1926,
-          "forks": 213,
-          "openIssues": 12,
+          "stars": 1964,
+          "forks": 218,
+          "openIssues": 14,
           "licenseName": "Apache License 2.0",
           "tags": [
             "3d",
@@ -167,72 +229,10 @@
             "procedural-modeling"
           ],
           "category": "ai_ml",
-          "categoryLabel": "AI & Machine Learning",
+          "categoryLabel": "Featured",
           "curatorScore": 152,
           "createdAt": "2026-11-03T08:23:03Z",
-          "pushedAt": "2026-11-12T16:28:07Z"
-        },
-        {
-          "id": "1434724807",
-          "name": "ui",
-          "fullName": "vercel-labs/ui",
-          "owner": {
-            "username": "vercel-labs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/108547162?v=4",
-            "githubUrl": "https://github.com/vercel-labs"
-          },
-          "description": "A library of behaviors for agents to build the next generation of user interfaces.",
-          "pitch": "A library of behaviors for agents to build the next generation of user interfaces.",
-          "repoUrl": "https://github.com/vercel-labs/ui",
-          "homepageUrl": "https://ui-sdk.dev",
-          "primaryLanguage": "TypeScript",
-          "stars": 1991,
-          "forks": 37,
-          "openIssues": 3,
-          "licenseName": "Apache License 2.0",
-          "tags": [
-            "accessibility",
-            "agent",
-            "agents",
-            "aria",
-            "behaviors"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 151,
-          "createdAt": "2026-10-26T17:39:27Z",
-          "pushedAt": "2026-11-12T20:45:19Z"
-        },
-        {
-          "id": "1436993930",
-          "name": "ff-ruyijs",
-          "fullName": "cutetailbud/ff-ruyijs",
-          "owner": {
-            "username": "cutetailbud",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/212403118?v=4",
-            "githubUrl": "https://github.com/cutetailbud"
-          },
-          "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
-          "pitch": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
-          "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
-          "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
-          "primaryLanguage": "C++",
-          "stars": 1228,
-          "forks": 349,
-          "openIssues": 12,
-          "licenseName": "GNU Affero General Public License v3.0",
-          "tags": [
-            "anti-bot",
-            "automation",
-            "firefox",
-            "headless-browser",
-            "javascript"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "Featured",
-          "curatorScore": 150,
-          "createdAt": "2026-10-28T11:31:41Z",
-          "pushedAt": "2026-11-11T11:39:05Z"
+          "pushedAt": "2026-11-13T14:49:55Z"
         },
         {
           "id": "1450794567",
@@ -248,9 +248,9 @@
           "repoUrl": "https://github.com/agentes-chat/agentes-chat",
           "homepageUrl": "https://agentes.chat",
           "primaryLanguage": "TypeScript",
-          "stars": 1225,
-          "forks": 200,
-          "openIssues": 150,
+          "stars": 1354,
+          "forks": 236,
+          "openIssues": 204,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
             "agentic-ai",
@@ -261,9 +261,9 @@
           ],
           "category": "ai_ml",
           "categoryLabel": "Featured",
-          "curatorScore": 147,
+          "curatorScore": 149,
           "createdAt": "2026-11-09T00:50:28Z",
-          "pushedAt": "2026-11-13T04:16:27Z"
+          "pushedAt": "2026-11-14T04:23:59Z"
         },
         {
           "id": "1426181476",
@@ -278,9 +278,9 @@
           "pitch": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
           "repoUrl": "https://github.com/oinkvm/oink",
           "primaryLanguage": "Rust",
-          "stars": 1511,
-          "forks": 127,
-          "openIssues": 20,
+          "stars": 1619,
+          "forks": 135,
+          "openIssues": 23,
           "licenseName": "GNU General Public License v3.0",
           "tags": [
             "audio-sharing",
@@ -291,9 +291,9 @@
           ],
           "category": "ai_ml",
           "categoryLabel": "Featured",
-          "curatorScore": 146,
+          "curatorScore": 147,
           "createdAt": "2026-10-19T21:08:57Z",
-          "pushedAt": "2026-11-12T11:10:34Z"
+          "pushedAt": "2026-11-13T22:07:40Z"
         }
       ]
     },
@@ -316,8 +316,8 @@
           "repoUrl": "https://github.com/kevinraymond/florilegium",
           "homepageUrl": "https://kevinraymond.github.io/florilegium/",
           "primaryLanguage": "TeX",
-          "stars": 1650,
-          "forks": 51,
+          "stars": 1658,
+          "forks": 52,
           "openIssues": 0,
           "licenseName": "MIT License",
           "tags": [
@@ -334,6 +334,37 @@
           "pushedAt": "2026-11-12T21:09:26Z"
         },
         {
+          "id": "1452008226",
+          "name": "HolyArrs",
+          "fullName": "HolyArrs/HolyArrs",
+          "owner": {
+            "username": "HolyArrs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/348458842?v=4",
+            "githubUrl": "https://github.com/HolyArrs"
+          },
+          "description": "One self-hosted app for your shows, movies and music.",
+          "pitch": "One self-hosted app for your shows, movies and music.",
+          "repoUrl": "https://github.com/HolyArrs/HolyArrs",
+          "homepageUrl": "https://holyarrs.com",
+          "primaryLanguage": "Go",
+          "stars": 1106,
+          "forks": 57,
+          "openIssues": 78,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "docker",
+            "homelab",
+            "jellyfin",
+            "media-server",
+            "plex"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 148,
+          "createdAt": "2026-11-09T23:53:25Z",
+          "pushedAt": "2026-11-14T01:45:40Z"
+        },
+        {
           "id": "1452123445",
           "name": "Erosion-CN",
           "fullName": "Kianuni/Erosion-CN",
@@ -346,40 +377,16 @@
           "pitch": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
           "repoUrl": "https://github.com/Kianuni/Erosion-CN",
           "primaryLanguage": "Swift",
-          "stars": 1745,
-          "forks": 377,
-          "openIssues": 13,
+          "stars": 1952,
+          "forks": 410,
+          "openIssues": 18,
           "licenseName": "GNU General Public License v3.0",
           "tags": [],
           "category": "devtools_cli",
           "categoryLabel": "DevTools & Systems",
-          "curatorScore": 145,
+          "curatorScore": 146,
           "createdAt": "2026-11-10T02:37:31Z",
-          "pushedAt": "2026-11-13T03:31:11Z"
-        },
-        {
-          "id": "1445695976",
-          "name": "mygo-music",
-          "fullName": "egoist/mygo-music",
-          "owner": {
-            "username": "egoist",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?v=4",
-            "githubUrl": "https://github.com/egoist"
-          },
-          "description": "A native music player you extend with plugins",
-          "pitch": "A native music player you extend with plugins",
-          "repoUrl": "https://github.com/egoist/mygo-music",
-          "primaryLanguage": "Go",
-          "stars": 1282,
-          "forks": 216,
-          "openIssues": 90,
-          "licenseName": "GNU Affero General Public License v3.0",
-          "tags": [],
-          "category": "devtools_cli",
-          "categoryLabel": "DevTools & Systems",
-          "curatorScore": 128,
-          "createdAt": "2026-11-04T13:27:14Z",
-          "pushedAt": "2026-11-11T15:47:11Z"
+          "pushedAt": "2026-11-13T15:38:08Z"
         }
       ]
     },
@@ -402,9 +409,9 @@
           "repoUrl": "https://github.com/woniuniuniu/dsh-media-desk",
           "homepageUrl": "https://www.npmjs.com/package/dsh-media-desk",
           "primaryLanguage": "JavaScript",
-          "stars": 1232,
-          "forks": 150,
-          "openIssues": 3,
+          "stars": 1285,
+          "forks": 159,
+          "openIssues": 5,
           "licenseName": "MIT License",
           "tags": [
             "content-creation",
@@ -415,9 +422,39 @@
           ],
           "category": "web_fullstack",
           "categoryLabel": "Web & Fullstack",
-          "curatorScore": 145,
+          "curatorScore": 146,
           "createdAt": "2026-11-02T04:49:29Z",
           "pushedAt": "2026-11-12T16:41:33Z"
+        },
+        {
+          "id": "1438478196",
+          "name": "apkstart",
+          "fullName": "RoutineMiku/apkstart",
+          "owner": {
+            "username": "RoutineMiku",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52089759?v=4",
+            "githubUrl": "https://github.com/RoutineMiku"
+          },
+          "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
+          "pitch": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
+          "repoUrl": "https://github.com/RoutineMiku/apkstart",
+          "primaryLanguage": "JavaScript",
+          "stars": 1582,
+          "forks": 121,
+          "openIssues": 10,
+          "licenseName": "MIT License",
+          "tags": [
+            "android",
+            "android-x86",
+            "apk",
+            "electron",
+            "emulator"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 146,
+          "createdAt": "2026-10-29T13:44:03Z",
+          "pushedAt": "2026-11-14T04:06:09Z"
         },
         {
           "id": "1426270002",
@@ -433,40 +470,16 @@
           "repoUrl": "https://github.com/ELY-Open-Source/ElyOffice",
           "homepageUrl": "https://office.elygpui.com",
           "primaryLanguage": "Rust",
-          "stars": 1495,
+          "stars": 1511,
           "forks": 94,
-          "openIssues": 7,
+          "openIssues": 9,
           "licenseName": "MIT License",
           "tags": [],
           "category": "web_fullstack",
           "categoryLabel": "Web & Fullstack",
           "curatorScore": 144,
           "createdAt": "2026-10-19T23:04:42Z",
-          "pushedAt": "2026-11-13T02:30:58Z"
-        },
-        {
-          "id": "1448807268",
-          "name": "ocarina-recomp",
-          "fullName": "sostenesfreitas/ocarina-recomp",
-          "owner": {
-            "username": "sostenesfreitas",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/13871345?v=4",
-            "githubUrl": "https://github.com/sostenesfreitas"
-          },
-          "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-          "pitch": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-          "repoUrl": "https://github.com/sostenesfreitas/ocarina-recomp",
-          "primaryLanguage": "C",
-          "stars": 1171,
-          "forks": 77,
-          "openIssues": 97,
-          "licenseName": "GNU General Public License v3.0",
-          "tags": [],
-          "category": "web_fullstack",
-          "categoryLabel": "Web & Fullstack",
-          "curatorScore": 130,
-          "createdAt": "2026-11-06T22:24:03Z",
-          "pushedAt": "2026-11-11T19:20:58Z"
+          "pushedAt": "2026-11-13T13:26:10Z"
         }
       ]
     },
