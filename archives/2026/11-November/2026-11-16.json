@@ -1,0 +1,488 @@
+{
+  "date": "2026-11-16",
+  "year": "2026",
+  "month": "11",
+  "monthName": "November",
+  "timestamp": "2026-11-16T04:18:16.351Z",
+  "totalCount": 15,
+  "categories": [
+    {
+      "id": "top_pick",
+      "title": "Top Picks",
+      "description": "The fastest-accelerating, highest-impact open-source tools of the day.",
+      "repos": [
+        {
+          "id": "1432883796",
+          "name": "agent-purge",
+          "fullName": "ZiChuanLan/agent-purge",
+          "owner": {
+            "username": "ZiChuanLan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139305401?v=4",
+            "githubUrl": "https://github.com/ZiChuanLan"
+          },
+          "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+          "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
+          "primaryLanguage": "JavaScript",
+          "stars": 1839,
+          "forks": 1038,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "deepseek-harness",
+            "harness"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 162,
+          "createdAt": "2026-10-25T06:06:02Z",
+          "pushedAt": "2026-11-16T04:18:02Z"
+        },
+        {
+          "id": "1426547898",
+          "name": "freefield",
+          "fullName": "neuregex/freefield",
+          "owner": {
+            "username": "neuregex",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/47640766?v=4",
+            "githubUrl": "https://github.com/neuregex"
+          },
+          "description": "Open-source Higgsfield on ComfyUI: 120 image, video, VFX and audio apps, every model open weights; runs on Modal or your own GPU",
+          "pitch": "Open-source Higgsfield on ComfyUI: 120 image, video, VFX and audio apps, every model open weights; runs on Modal or your own GPU",
+          "repoUrl": "https://github.com/neuregex/freefield",
+          "homepageUrl": "https://youtu.be/N7mv2v3Txeo",
+          "primaryLanguage": "Python",
+          "stars": 1447,
+          "forks": 278,
+          "openIssues": 6,
+          "licenseName": "MIT License",
+          "tags": [
+            "comfyui",
+            "higgsfield",
+            "image-generation",
+            "ltx-video",
+            "modal"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 161,
+          "createdAt": "2026-10-20T05:32:55Z",
+          "pushedAt": "2026-11-15T11:26:11Z"
+        },
+        {
+          "id": "1447145240",
+          "name": "poki",
+          "fullName": "JosssphZhou/poki",
+          "owner": {
+            "username": "JosssphZhou",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/260232027?v=4",
+            "githubUrl": "https://github.com/JosssphZhou"
+          },
+          "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+          "pitch": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+          "repoUrl": "https://github.com/JosssphZhou/poki",
+          "homepageUrl": "https://poki.bot",
+          "primaryLanguage": "Swift",
+          "stars": 1363,
+          "forks": 228,
+          "openIssues": 86,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "ai-agents",
+            "automation",
+            "ios",
+            "iphone",
+            "mcp"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 159,
+          "createdAt": "2026-11-05T15:04:31Z",
+          "pushedAt": "2026-11-16T03:53:05Z"
+        }
+      ]
+    },
+    {
+      "id": "ai_ml",
+      "title": "AI & Machine Learning",
+      "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
+      "repos": [
+        {
+          "id": "1449548089",
+          "name": "phonebox",
+          "fullName": "ersinkoc/phonebox",
+          "owner": {
+            "username": "ersinkoc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/408479?v=4",
+            "githubUrl": "https://github.com/ersinkoc"
+          },
+          "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
+          "pitch": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
+          "repoUrl": "https://github.com/ersinkoc/phonebox",
+          "homepageUrl": "https://ersinkoc.github.io/phonebox/",
+          "primaryLanguage": "C#",
+          "stars": 1368,
+          "forks": 129,
+          "openIssues": 26,
+          "licenseName": "MIT License",
+          "tags": [
+            "android",
+            "claude-code",
+            "codex",
+            "dashboard",
+            "desk-panel"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 155,
+          "createdAt": "2026-11-07T16:45:16Z",
+          "pushedAt": "2026-11-15T23:48:32Z"
+        },
+        {
+          "id": "1424484225",
+          "name": "SAG-Wiki",
+          "fullName": "Zleap-AI/SAG-Wiki",
+          "owner": {
+            "username": "Zleap-AI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/239856193?v=4",
+            "githubUrl": "https://github.com/Zleap-AI"
+          },
+          "description": "A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval.",
+          "pitch": "A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval.",
+          "repoUrl": "https://github.com/Zleap-AI/SAG-Wiki",
+          "homepageUrl": "https://sag-wiki.zleap.com",
+          "primaryLanguage": "Rust",
+          "stars": 1231,
+          "forks": 142,
+          "openIssues": 3,
+          "licenseName": "MIT License",
+          "tags": [
+            "knowledge-base",
+            "knowledge-graph",
+            "rag",
+            "rust",
+            "sag"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 155,
+          "createdAt": "2026-10-18T14:51:30Z",
+          "pushedAt": "2026-11-16T04:10:20Z"
+        },
+        {
+          "id": "1438254436",
+          "name": "llama-modchip",
+          "fullName": "synchopate/llama-modchip",
+          "owner": {
+            "username": "synchopate",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76195533?v=4",
+            "githubUrl": "https://github.com/synchopate"
+          },
+          "description": "Run 284B DeepSeek-V4-Flash (<59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).",
+          "pitch": "Run 284B DeepSeek-V4-Flash (<59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).",
+          "repoUrl": "https://github.com/synchopate/llama-modchip",
+          "homepageUrl": "https://github.com/synchopate/llama-modchip#readme",
+          "primaryLanguage": "Python",
+          "stars": 1274,
+          "forks": 113,
+          "openIssues": 31,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "ai-agents",
+            "apple-silicon",
+            "avx512",
+            "claude-code",
+            "cpu-inference"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 153,
+          "createdAt": "2026-10-29T10:17:33Z",
+          "pushedAt": "2026-11-15T09:08:26Z"
+        },
+        {
+          "id": "1429601047",
+          "name": "inferssd",
+          "fullName": "wici-ai/inferssd",
+          "owner": {
+            "username": "wici-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/271740255?v=4",
+            "githubUrl": "https://github.com/wici-ai"
+          },
+          "description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
+          "pitch": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
+          "repoUrl": "https://github.com/wici-ai/inferssd",
+          "homepageUrl": "https://wici.ai/inferssd",
+          "primaryLanguage": "C++",
+          "stars": 1186,
+          "forks": 100,
+          "openIssues": 85,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "apple-silicon",
+            "cuda",
+            "gguf",
+            "inference",
+            "llama-cpp"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 152,
+          "createdAt": "2026-10-22T10:40:45Z",
+          "pushedAt": "2026-11-15T09:33:50Z"
+        },
+        {
+          "id": "1450794567",
+          "name": "agentes-chat",
+          "fullName": "agentes-chat/agentes-chat",
+          "owner": {
+            "username": "agentes-chat",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/343980363?v=4",
+            "githubUrl": "https://github.com/agentes-chat"
+          },
+          "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+          "pitch": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+          "repoUrl": "https://github.com/agentes-chat/agentes-chat",
+          "homepageUrl": "https://agentes.chat",
+          "primaryLanguage": "TypeScript",
+          "stars": 1533,
+          "forks": 271,
+          "openIssues": 182,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "agentic-ai",
+            "ai-agents",
+            "browser-automation",
+            "chat",
+            "claude"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 151,
+          "createdAt": "2026-11-09T00:50:28Z",
+          "pushedAt": "2026-11-16T04:12:16Z"
+        },
+        {
+          "id": "1436993930",
+          "name": "ff-ruyijs",
+          "fullName": "cutetailbud/ff-ruyijs",
+          "owner": {
+            "username": "cutetailbud",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/212403118?v=4",
+            "githubUrl": "https://github.com/cutetailbud"
+          },
+          "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "pitch": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+          "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
+          "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
+          "primaryLanguage": "C++",
+          "stars": 1250,
+          "forks": 358,
+          "openIssues": 14,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "anti-bot",
+            "automation",
+            "firefox",
+            "headless-browser",
+            "javascript"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 151,
+          "createdAt": "2026-10-28T11:31:41Z",
+          "pushedAt": "2026-11-14T11:11:54Z"
+        }
+      ]
+    },
+    {
+      "id": "devtools_cli",
+      "title": "DevTools & Systems",
+      "description": "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
+      "repos": [
+        {
+          "id": "1452008226",
+          "name": "HolyArrs",
+          "fullName": "HolyArrs/HolyArrs",
+          "owner": {
+            "username": "HolyArrs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/348458842?v=4",
+            "githubUrl": "https://github.com/HolyArrs"
+          },
+          "description": "One self-hosted app for your shows, movies and music.",
+          "pitch": "One self-hosted app for your shows, movies and music.",
+          "repoUrl": "https://github.com/HolyArrs/HolyArrs",
+          "homepageUrl": "https://holyarrs.com",
+          "primaryLanguage": "Go",
+          "stars": 1271,
+          "forks": 66,
+          "openIssues": 108,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "docker",
+            "homelab",
+            "jellyfin",
+            "media-server",
+            "plex"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 150,
+          "createdAt": "2026-11-09T23:53:25Z",
+          "pushedAt": "2026-11-15T20:18:24Z"
+        },
+        {
+          "id": "1451554320",
+          "name": "mkw-recomp",
+          "fullName": "adriadam10/mkw-recomp",
+          "owner": {
+            "username": "adriadam10",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57327458?v=4",
+            "githubUrl": "https://github.com/adriadam10"
+          },
+          "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+          "pitch": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+          "repoUrl": "https://github.com/adriadam10/mkw-recomp",
+          "primaryLanguage": "C",
+          "stars": 1259,
+          "forks": 78,
+          "openIssues": 160,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 131,
+          "createdAt": "2026-11-09T15:40:06Z",
+          "pushedAt": "2026-11-15T21:00:35Z"
+        },
+        {
+          "id": "1445695976",
+          "name": "mygo-music",
+          "fullName": "egoist/mygo-music",
+          "owner": {
+            "username": "egoist",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?v=4",
+            "githubUrl": "https://github.com/egoist"
+          },
+          "description": "A native music player you extend with plugins",
+          "pitch": "A native music player you extend with plugins",
+          "repoUrl": "https://github.com/egoist/mygo-music",
+          "primaryLanguage": "Go",
+          "stars": 1392,
+          "forks": 235,
+          "openIssues": 95,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 129,
+          "createdAt": "2026-11-04T13:27:14Z",
+          "pushedAt": "2026-11-14T11:18:04Z"
+        }
+      ]
+    },
+    {
+      "id": "web_fullstack",
+      "title": "Web & Fullstack",
+      "description": "Modern UI components, web frameworks, and backend services.",
+      "repos": [
+        {
+          "id": "1445112696",
+          "name": "player",
+          "fullName": "livliv-dev/player",
+          "owner": {
+            "username": "livliv-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/352250088?v=4",
+            "githubUrl": "https://github.com/livliv-dev"
+          },
+          "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "pitch": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+          "repoUrl": "https://github.com/livliv-dev/player",
+          "homepageUrl": "https://livliv-dev.github.io/player/",
+          "primaryLanguage": "TypeScript",
+          "stars": 1561,
+          "forks": 161,
+          "openIssues": 3,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "avatar",
+            "character",
+            "face-tracking",
+            "lip-sync",
+            "pngtuber"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 158,
+          "createdAt": "2026-11-04T03:28:33Z",
+          "pushedAt": "2026-11-15T07:11:01Z"
+        },
+        {
+          "id": "1442519465",
+          "name": "dsh-media-desk",
+          "fullName": "woniuniuniu/dsh-media-desk",
+          "owner": {
+            "username": "woniuniuniu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/153842595?v=4",
+            "githubUrl": "https://github.com/woniuniuniu"
+          },
+          "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+          "pitch": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+          "repoUrl": "https://github.com/woniuniuniu/dsh-media-desk",
+          "homepageUrl": "https://www.npmjs.com/package/dsh-media-desk",
+          "primaryLanguage": "JavaScript",
+          "stars": 1403,
+          "forks": 165,
+          "openIssues": 2,
+          "licenseName": "MIT License",
+          "tags": [
+            "content-creation",
+            "deepseek",
+            "deepseek-harness",
+            "dsh-plugin",
+            "xiaohongshu"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 147,
+          "createdAt": "2026-11-02T04:49:29Z",
+          "pushedAt": "2026-11-15T17:12:48Z"
+        },
+        {
+          "id": "1455374283",
+          "name": "abyssal-garden",
+          "fullName": "Noniv/abyssal-garden",
+          "owner": {
+            "username": "Noniv",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/80125277?v=4",
+            "githubUrl": "https://github.com/Noniv"
+          },
+          "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+          "pitch": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+          "repoUrl": "https://github.com/Noniv/abyssal-garden",
+          "homepageUrl": "https://noniv.github.io/abyssal-garden/",
+          "primaryLanguage": "JavaScript",
+          "stars": 1172,
+          "forks": 169,
+          "openIssues": 4,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 145,
+          "createdAt": "2026-11-12T13:57:34Z",
+          "pushedAt": "2026-11-14T17:41:33Z"
+        }
+      ]
+    },
+    {
+      "id": "hidden_gem",
+      "title": "Hidden Gems",
+      "description": "Early-stage repos (< 250 stars) with exceptional engineering and novelty.",
+      "repos": []
+    }
+  ]
+}
