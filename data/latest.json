@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "year": "2026",
   "month": "11",
   "monthName": "November",
-  "timestamp": "2026-11-17T06:02:03.260Z",
+  "timestamp": "2026-11-18T05:31:46.869Z",
   "totalCount": 15,
   "categories": [
     {
@@ -24,8 +24,8 @@
           "pitch": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
           "repoUrl": "https://github.com/ZiChuanLan/agent-purge",
           "primaryLanguage": "JavaScript",
-          "stars": 1897,
-          "forks": 1061,
+          "stars": 1925,
+          "forks": 1067,
           "openIssues": 0,
           "licenseName": "MIT License",
           "tags": [
@@ -33,11 +33,11 @@
             "codex",
             "coding-agent",
             "deepseek-harness",
-            "harness"
+            "dsh"
           ],
           "category": "top_pick",
           "categoryLabel": "Top Picks",
-          "curatorScore": 162,
+          "curatorScore": 163,
           "createdAt": "2026-10-25T06:06:02Z",
           "pushedAt": "2026-11-17T02:06:12Z"
         },
@@ -55,9 +55,9 @@
           "repoUrl": "https://github.com/neuregex/freefield",
           "homepageUrl": "https://youtu.be/N7mv2v3Txeo",
           "primaryLanguage": "Python",
-          "stars": 1511,
-          "forks": 292,
-          "openIssues": 9,
+          "stars": 1558,
+          "forks": 301,
+          "openIssues": 8,
           "licenseName": "MIT License",
           "tags": [
             "comfyui",
@@ -68,9 +68,9 @@
           ],
           "category": "top_pick",
           "categoryLabel": "Top Picks",
-          "curatorScore": 161,
+          "curatorScore": 162,
           "createdAt": "2026-10-20T05:32:55Z",
-          "pushedAt": "2026-11-17T04:57:56Z"
+          "pushedAt": "2026-11-18T00:30:59Z"
         },
         {
           "id": "1447145240",
@@ -86,8 +86,8 @@
           "repoUrl": "https://github.com/JosssphZhou/poki",
           "homepageUrl": "https://poki.bot",
           "primaryLanguage": "Swift",
-          "stars": 1529,
-          "forks": 240,
+          "stars": 1579,
+          "forks": 249,
           "openIssues": 84,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
@@ -99,9 +99,9 @@
           ],
           "category": "top_pick",
           "categoryLabel": "Top Picks",
-          "curatorScore": 160,
+          "curatorScore": 161,
           "createdAt": "2026-11-05T15:04:31Z",
-          "pushedAt": "2026-11-17T05:47:50Z"
+          "pushedAt": "2026-11-18T05:18:41Z"
         }
       ]
     },
@@ -110,6 +110,37 @@
       "title": "AI & Machine Learning",
       "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
       "repos": [
+        {
+          "id": "1459971684",
+          "name": "rust-anything",
+          "fullName": "erkamyaman/rust-anything",
+          "owner": {
+            "username": "erkamyaman",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/88717125?v=4",
+            "githubUrl": "https://github.com/erkamyaman"
+          },
+          "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+          "pitch": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+          "repoUrl": "https://github.com/erkamyaman/rust-anything",
+          "homepageUrl": "https://www.npmjs.com/package/rust-anything",
+          "primaryLanguage": "Rust",
+          "stars": 1727,
+          "forks": 128,
+          "openIssues": 44,
+          "licenseName": "MIT License",
+          "tags": [
+            "agent-skills",
+            "claude-code",
+            "cli",
+            "code-migration",
+            "codex"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 158,
+          "createdAt": "2026-11-16T12:10:36Z",
+          "pushedAt": "2026-11-18T01:20:09Z"
+        },
         {
           "id": "1434897066",
           "name": "couch-tv",
@@ -124,9 +155,9 @@
           "repoUrl": "https://github.com/Seagey/couch-tv",
           "homepageUrl": "https://couchtv.sites.underseage.studio/",
           "primaryLanguage": "Python",
-          "stars": 1427,
-          "forks": 211,
-          "openIssues": 85,
+          "stars": 1470,
+          "forks": 219,
+          "openIssues": 94,
           "licenseName": "MIT License",
           "tags": [
             "android-tv",
@@ -138,38 +169,7 @@
           "categoryLabel": "AI & Machine Learning",
           "curatorScore": 157,
           "createdAt": "2026-10-26T20:28:54Z",
-          "pushedAt": "2026-11-17T05:17:55Z"
-        },
-        {
-          "id": "1437869585",
-          "name": "SoduWork",
-          "fullName": "mdiri-ai/SoduWork",
-          "owner": {
-            "username": "mdiri-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/342439292?v=4",
-            "githubUrl": "https://github.com/mdiri-ai"
-          },
-          "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-          "pitch": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-          "repoUrl": "https://github.com/mdiri-ai/SoduWork",
-          "homepageUrl": "https://www.soduwork.ai",
-          "primaryLanguage": "JavaScript",
-          "stars": 1217,
-          "forks": 169,
-          "openIssues": 70,
-          "licenseName": "MIT License",
-          "tags": [
-            "agent-harness",
-            "agent-orchestration",
-            "agent-workflows",
-            "ai-agents",
-            "ai-workflows"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 156,
-          "createdAt": "2026-10-29T02:43:14Z",
-          "pushedAt": "2026-11-17T05:42:29Z"
+          "pushedAt": "2026-11-17T20:21:45Z"
         },
         {
           "id": "1438254436",
@@ -185,9 +185,9 @@
           "repoUrl": "https://github.com/synchopate/llama-modchip",
           "homepageUrl": "https://github.com/synchopate/llama-modchip#readme",
           "primaryLanguage": "Python",
-          "stars": 1325,
-          "forks": 122,
-          "openIssues": 30,
+          "stars": 1347,
+          "forks": 129,
+          "openIssues": 31,
           "licenseName": "Apache License 2.0",
           "tags": [
             "ai-agents",
@@ -198,9 +198,40 @@
           ],
           "category": "ai_ml",
           "categoryLabel": "AI & Machine Learning",
-          "curatorScore": 154,
+          "curatorScore": 155,
           "createdAt": "2026-10-29T10:17:33Z",
-          "pushedAt": "2026-11-17T02:21:21Z"
+          "pushedAt": "2026-11-17T18:29:37Z"
+        },
+        {
+          "id": "1429553852",
+          "name": "motty",
+          "fullName": "t8y2/motty",
+          "owner": {
+            "username": "t8y2",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/77960507?v=4",
+            "githubUrl": "https://github.com/t8y2"
+          },
+          "description": "SSH, SFTP, port forwarding, VNC/RDP and an AI assistant、MCP in one native window — a Go desktop app built on Viva, with no webview.",
+          "pitch": "SSH, SFTP, port forwarding, VNC/RDP and an AI assistant、MCP in one native window — a Go desktop app built on Viva, with no webview.",
+          "repoUrl": "https://github.com/t8y2/motty",
+          "homepageUrl": "https://motty.page",
+          "primaryLanguage": "Go",
+          "stars": 1325,
+          "forks": 131,
+          "openIssues": 216,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "ai-assistant",
+            "golang",
+            "native",
+            "port-forwarding",
+            "rdp"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 155,
+          "createdAt": "2026-10-22T09:56:24Z",
+          "pushedAt": "2026-11-18T04:41:38Z"
         },
         {
           "id": "1450794567",
@@ -216,9 +247,9 @@
           "repoUrl": "https://github.com/agentes-chat/agentes-chat",
           "homepageUrl": "https://agentes.chat",
           "primaryLanguage": "TypeScript",
-          "stars": 1643,
-          "forks": 295,
-          "openIssues": 234,
+          "stars": 1691,
+          "forks": 307,
+          "openIssues": 279,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
             "agentic-ai",
@@ -229,9 +260,9 @@
           ],
           "category": "ai_ml",
           "categoryLabel": "Featured",
-          "curatorScore": 152,
+          "curatorScore": 153,
           "createdAt": "2026-11-09T00:50:28Z",
-          "pushedAt": "2026-11-17T05:10:17Z"
+          "pushedAt": "2026-11-18T04:47:51Z"
         },
         {
           "id": "1436993930",
@@ -247,8 +278,8 @@
           "repoUrl": "https://github.com/cutetailbud/ff-ruyijs",
           "homepageUrl": "https://cutetailbud.github.io/ff-ruyijs/",
           "primaryLanguage": "C++",
-          "stars": 1434,
-          "forks": 360,
+          "stars": 1461,
+          "forks": 363,
           "openIssues": 15,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
@@ -260,40 +291,9 @@
           ],
           "category": "ai_ml",
           "categoryLabel": "Featured",
-          "curatorScore": 152,
+          "curatorScore": 153,
           "createdAt": "2026-10-28T11:31:41Z",
-          "pushedAt": "2026-11-16T15:53:08Z"
-        },
-        {
-          "id": "1429601047",
-          "name": "inferssd",
-          "fullName": "wici-ai/inferssd",
-          "owner": {
-            "username": "wici-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/271740255?v=4",
-            "githubUrl": "https://github.com/wici-ai"
-          },
-          "description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
-          "pitch": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
-          "repoUrl": "https://github.com/wici-ai/inferssd",
-          "homepageUrl": "https://wici.ai/inferssd",
-          "primaryLanguage": "C++",
-          "stars": 1211,
-          "forks": 105,
-          "openIssues": 30,
-          "licenseName": "Apache License 2.0",
-          "tags": [
-            "apple-silicon",
-            "cuda",
-            "gguf",
-            "inference",
-            "llama-cpp"
-          ],
-          "category": "ai_ml",
-          "categoryLabel": "Featured",
-          "curatorScore": 152,
-          "createdAt": "2026-10-22T10:40:45Z",
-          "pushedAt": "2026-11-17T05:08:38Z"
+          "pushedAt": "2026-11-17T17:06:08Z"
         }
       ]
     },
@@ -316,9 +316,9 @@
           "repoUrl": "https://github.com/HolyArrs/HolyArrs",
           "homepageUrl": "https://holyarrs.com",
           "primaryLanguage": "Go",
-          "stars": 1384,
-          "forks": 71,
-          "openIssues": 132,
+          "stars": 1434,
+          "forks": 73,
+          "openIssues": 86,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
             "docker",
@@ -329,33 +329,40 @@
           ],
           "category": "devtools_cli",
           "categoryLabel": "DevTools & Systems",
-          "curatorScore": 151,
+          "curatorScore": 152,
           "createdAt": "2026-11-09T23:53:25Z",
-          "pushedAt": "2026-11-17T02:05:19Z"
+          "pushedAt": "2026-11-18T00:16:43Z"
         },
         {
-          "id": "1453604719",
-          "name": "TelemetryCleaner",
-          "fullName": "Eynnzerr/TelemetryCleaner",
+          "id": "1439430391",
+          "name": "florilegium",
+          "fullName": "kevinraymond/florilegium",
           "owner": {
-            "username": "Eynnzerr",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/73703990?v=4",
-            "githubUrl": "https://github.com/Eynnzerr"
+            "username": "kevinraymond",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19157136?v=4",
+            "githubUrl": "https://github.com/kevinraymond"
           },
-          "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-          "pitch": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-          "repoUrl": "https://github.com/Eynnzerr/TelemetryCleaner",
-          "primaryLanguage": "Kotlin",
-          "stars": 1375,
-          "forks": 115,
-          "openIssues": 7,
+          "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+          "pitch": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+          "repoUrl": "https://github.com/kevinraymond/florilegium",
+          "homepageUrl": "https://kevinraymond.github.io/florilegium/",
+          "primaryLanguage": "TeX",
+          "stars": 1679,
+          "forks": 54,
+          "openIssues": 1,
           "licenseName": "MIT License",
-          "tags": [],
+          "tags": [
+            "botanical-illustration",
+            "generative-art",
+            "latex",
+            "latex-package",
+            "lua"
+          ],
           "category": "devtools_cli",
           "categoryLabel": "DevTools & Systems",
-          "curatorScore": 134,
-          "createdAt": "2026-11-11T06:25:10Z",
-          "pushedAt": "2026-11-16T05:54:50Z"
+          "curatorScore": 152,
+          "createdAt": "2026-10-30T07:49:05Z",
+          "pushedAt": "2026-11-18T04:55:05Z"
         },
         {
           "id": "1451554320",
@@ -369,17 +376,18 @@
           "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
           "pitch": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
           "repoUrl": "https://github.com/adriadam10/mkw-recomp",
+          "homepageUrl": "https://discord.gg/8uYBkjQkEg",
           "primaryLanguage": "C",
-          "stars": 1372,
-          "forks": 92,
-          "openIssues": 193,
+          "stars": 1460,
+          "forks": 101,
+          "openIssues": 203,
           "licenseName": "MIT License",
           "tags": [],
           "category": "devtools_cli",
           "categoryLabel": "DevTools & Systems",
-          "curatorScore": 133,
+          "curatorScore": 144,
           "createdAt": "2026-11-09T15:40:06Z",
-          "pushedAt": "2026-11-16T19:55:26Z"
+          "pushedAt": "2026-11-17T21:46:51Z"
         }
       ]
     },
@@ -402,9 +410,9 @@
           "repoUrl": "https://github.com/livliv-dev/player",
           "homepageUrl": "https://livliv-dev.github.io/player/",
           "primaryLanguage": "TypeScript",
-          "stars": 1572,
-          "forks": 161,
-          "openIssues": 3,
+          "stars": 1583,
+          "forks": 163,
+          "openIssues": 2,
           "licenseName": "Apache License 2.0",
           "tags": [
             "avatar",
@@ -433,9 +441,9 @@
           "repoUrl": "https://github.com/serveroshq/panel",
           "homepageUrl": "https://serveros.com",
           "primaryLanguage": "PHP",
-          "stars": 1111,
-          "forks": 105,
-          "openIssues": 16,
+          "stars": 1148,
+          "forks": 111,
+          "openIssues": 15,
           "licenseName": "GNU Affero General Public License v3.0",
           "tags": [
             "agpl",
@@ -448,38 +456,37 @@
           "categoryLabel": "Web & Fullstack",
           "curatorScore": 152,
           "createdAt": "2026-11-09T00:47:33Z",
-          "pushedAt": "2026-11-17T04:52:48Z"
+          "pushedAt": "2026-11-17T21:55:46Z"
         },
         {
-          "id": "1442519465",
-          "name": "dsh-media-desk",
-          "fullName": "woniuniuniu/dsh-media-desk",
+          "id": "1446725477",
+          "name": "CUI",
+          "fullName": "yappologistic/CUI",
           "owner": {
-            "username": "woniuniuniu",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/153842595?v=4",
-            "githubUrl": "https://github.com/woniuniuniu"
+            "username": "yappologistic",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/262229790?v=4",
+            "githubUrl": "https://github.com/yappologistic"
           },
-          "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-          "pitch": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-          "repoUrl": "https://github.com/woniuniuniu/dsh-media-desk",
-          "homepageUrl": "https://www.npmjs.com/package/dsh-media-desk",
-          "primaryLanguage": "JavaScript",
-          "stars": 1449,
-          "forks": 171,
-          "openIssues": 4,
+          "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+          "pitch": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+          "repoUrl": "https://github.com/yappologistic/CUI",
+          "primaryLanguage": "C",
+          "stars": 1132,
+          "forks": 75,
+          "openIssues": 15,
           "licenseName": "MIT License",
           "tags": [
-            "content-creation",
-            "deepseek",
-            "deepseek-harness",
-            "dsh-plugin",
-            "xiaohongshu"
+            "c",
+            "c99",
+            "cross-platform",
+            "gui",
+            "native"
           ],
           "category": "web_fullstack",
           "categoryLabel": "Web & Fullstack",
-          "curatorScore": 148,
-          "createdAt": "2026-11-02T04:49:29Z",
-          "pushedAt": "2026-11-15T17:12:48Z"
+          "curatorScore": 140,
+          "createdAt": "2026-11-05T08:18:08Z",
+          "pushedAt": "2026-11-18T01:13:54Z"
         }
       ]
     },
