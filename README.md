@@ -14,64 +14,64 @@
 
 ---
 
-## Today's Top 15 Repositories (2026-11-24)
+## Today's Top 15 Repositories (2026-11-25)
 
 ### Top Picks
 *The fastest-accelerating, highest-impact open-source tools of the day.*
 
-- [**CzzzzzzJ/mdldm-maitian**](https://github.com/CzzzzzzJ/mdldm-maitian) — 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
-  `JavaScript` · `2k stars` · `565 forks` · `MIT` · *#automation #chrome-extension #creator-tools*
-
-- [**atuizz/posewear**](https://github.com/atuizz/posewear) — 姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on
-  `JavaScript` · `2k stars` · `443 forks` · `MIT` · *#ai-art #ai-try-on #chinese*
-
 - [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) — Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.
-  `Swift` · `1.9k stars` · `279 forks` · `GNU Affero General Public v3.0` · *#ai-agents #ai-assistant #automation*
-
-### AI & Machine Learning
-*Local models, RAG engines, agent frameworks, and LLM utilities.*
-
-- [**agentes-chat/agentes-chat**](https://github.com/agentes-chat/agentes-chat) — Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
-  `TypeScript` · `2k stars` · `394 forks` · `GNU Affero General Public v3.0` · *#agentic-ai #ai-agents #browser-automation*
-
-- [**synchopate/llama-modchip**](https://github.com/synchopate/llama-modchip) — Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.
-  `Python` · `1.4k stars` · `138 forks` · `Apache 2.0` · *#ai-agents #apple-silicon #avx512*
-
-- [**Renly1994/xiaotang-daozai**](https://github.com/Renly1994/xiaotang-daozai) — 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。
-  `Rust` · `1.8k stars` · `293 forks` · `MIT` · *#desktop-widget #dynamic-island #egui*
-
-- [**alexeyw/lot-map**](https://github.com/alexeyw/lot-map) — Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
-  `TypeScript` · `1.1k stars` · `120 forks` · `MIT` · *#agent-observability #ai-agents #claude*
-
-### DevTools & Systems
-*Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.*
-
-- [**kevinraymond/florilegium**](https://github.com/kevinraymond/florilegium) — Procedurally generated Delft-blue page margins for LuaLaTeX, with plants, visitors, shells and Gothic tracery sampled from genomes, and a TikZ library that draws them in pure TikZ under pdfLaTeX.
-  `TeX` · `1.7k stars` · `57 forks` · `MIT` · *#botanical-illustration #generative-art #latex*
-
-- [**os6/nospeaker**](https://github.com/os6/nospeaker) — make your macbook's trackpad talk using its haptic motor
-  `Swift` · `1.6k stars` · `78 forks` · `MIT` · *#haptics #macos #swift*
-
-- [**adriadam10/mkw-recomp**](https://github.com/adriadam10/mkw-recomp) — Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program
-  `C` · `1.7k stars` · `126 forks` · `MIT`
-
-### Web & Fullstack
-*Modern UI components, web frameworks, and backend services.*
-
-- [**Seagey/couch-tv**](https://github.com/Seagey/couch-tv) — Your Own TV Home Screen - Faster, nicer, removes spyware and tonnes more features.
-  `JavaScript` · `1.7k stars` · `263 forks` · `MIT` · *#android-tv #claude-code #google-tv*
+  `Swift` · `1.9k stars` · `285 forks` · `GNU Affero General Public v3.0` · *#ai-agents #ai-assistant #automation*
 
 - [**livliv-dev/player**](https://github.com/livliv-dev/player) — A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
   `TypeScript` · `1.6k stars` · `167 forks` · `Apache 2.0` · *#avatar #character #face-tracking*
 
+- [**synchopate/llama-modchip**](https://github.com/synchopate/llama-modchip) — Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.
+  `Python` · `1.4k stars` · `138 forks` · `Apache 2.0` · *#ai-agents #apple-silicon #avx512*
+
+### AI & Machine Learning
+*Local models, RAG engines, agent frameworks, and LLM utilities.*
+
+- [**Renly1994/xiaotang-daozai**](https://github.com/Renly1994/xiaotang-daozai) — 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。
+  `Rust` · `1.9k stars` · `301 forks` · `MIT` · *#desktop-widget #dynamic-island #egui*
+
+- [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) — 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs
+  `Python` · `1.9k stars` · `191 forks` · `MIT` · *#accessibility-testing #ai-agents #ai-testing*
+
+- [**simpsoka/zigzag**](https://github.com/simpsoka/zigzag) — Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.
+  `Rust` · `1.1k stars` · `84 forks` · `Apache 2.0` · *#brother-skitch #embroidery #embroidery-digitizing*
+
+- [**Dodaios/ste80-humanizer**](https://github.com/Dodaios/ste80-humanizer) — STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
+  `Python` · `1.1k stars` · `79 forks` · `MIT` · *#agent-skills #ai-writing #asd-ste100*
+
+- [**haziqahmedqasmi/PeakCut**](https://github.com/haziqahmedqasmi/PeakCut) — AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
+  `Python` · `1.9k stars` · `583 forks` · `MIT`
+
+- [**qianyiai/kurocat**](https://github.com/qianyiai/kurocat) — KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）
+  `TypeScript` · `750 stars` · `121 forks` · `MIT` · *#android #bongo-cat #bongocat*
+
+### DevTools & Systems
+*Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.*
+
+- [**os6/nospeaker**](https://github.com/os6/nospeaker) — make your macbook's trackpad talk using its haptic motor
+  `Swift` · `1.8k stars` · `91 forks` · `MIT` · *#haptics #macos #swift*
+
+- [**adriadam10/mkw-recomp**](https://github.com/adriadam10/mkw-recomp) — Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program
+  `C` · `1.8k stars` · `133 forks` · `MIT`
+
+- [**DEEIX-AI/Winc**](https://github.com/DEEIX-AI/Winc) — Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.
+  `Rust` · `1.3k stars` · `149 forks` · `Apache 2.0` · *#editor #git #ide*
+
+### Web & Fullstack
+*Modern UI components, web frameworks, and backend services.*
+
 - [**serveroshq/panel**](https://github.com/serveroshq/panel) — The open source ServerOS panel: one place to run the Linux servers you already own.
-  `PHP` · `1.2k stars` · `116 forks` · `GNU Affero General Public v3.0` · *#agpl #control-panel #devops*
+  `PHP` · `1.2k stars` · `118 forks` · `GNU Affero General Public v3.0` · *#agpl #control-panel #devops*
 
 - [**ybblab/Jiumi**](https://github.com/ybblab/Jiumi) — 揪咪 Jiumi：开源安卓应用行为监测与管理 App，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.
-  `Kotlin` · `1.4k stars` · `63 forks` · `Apache 2.0` · *#android #android-app #app-management*
+  `Kotlin` · `1.5k stars` · `72 forks` · `Apache 2.0` · *#android #android-app #app-management*
 
 - [**R0Y00/Xbox2Windows**](https://github.com/R0Y00/Xbox2Windows) — Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
-  `Python` · `1.7k stars` · `181 forks` · `MIT` · *#d3d12 #directx-raytracing #scarlett*
+  `Python` · `1.9k stars` · `219 forks` · `MIT` · *#d3d12 #directx-raytracing #scarlett*
 
 ---
 
@@ -81,7 +81,7 @@ All past selections are permanently preserved under [`archives/`](archives/):
 
 | Year / Month | Reports | Latest Days |
 |:---|:---:|:---|
-| **2026 / 11-November** | 20 | [`2026-11-24`](archives/2026/11-November/2026-11-24.md), [`2026-11-23`](archives/2026/11-November/2026-11-23.md), [`2026-11-22`](archives/2026/11-November/2026-11-22.md), [`2026-11-21`](archives/2026/11-November/2026-11-21.md), [`2026-11-20`](archives/2026/11-November/2026-11-20.md) |
+| **2026 / 11-November** | 21 | [`2026-11-25`](archives/2026/11-November/2026-11-25.md), [`2026-11-24`](archives/2026/11-November/2026-11-24.md), [`2026-11-23`](archives/2026/11-November/2026-11-23.md), [`2026-11-22`](archives/2026/11-November/2026-11-22.md), [`2026-11-21`](archives/2026/11-November/2026-11-21.md) |
 
 ## Evaluation Criteria
 
