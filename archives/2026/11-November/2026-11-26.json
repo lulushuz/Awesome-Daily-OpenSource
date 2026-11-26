@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-26",
+  "year": "2026",
+  "month": "11",
+  "monthName": "November",
+  "timestamp": "2026-11-26T06:23:10.803Z",
+  "totalCount": 15,
+  "categories": [
+    {
+      "id": "top_pick",
+      "title": "Top Picks",
+      "description": "The fastest-accelerating, highest-impact open-source tools of the day.",
+      "repos": [
+        {
+          "id": "1438254436",
+          "name": "llama-modchip",
+          "fullName": "synchopate/llama-modchip",
+          "owner": {
+            "username": "synchopate",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76195533?v=4",
+            "githubUrl": "https://github.com/synchopate"
+          },
+          "description": "Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.",
+          "pitch": "Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.",
+          "repoUrl": "https://github.com/synchopate/llama-modchip",
+          "homepageUrl": "https://synchopate.github.io/",
+          "primaryLanguage": "Python",
+          "stars": 1415,
+          "forks": 137,
+          "openIssues": 27,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "ai-agents",
+            "apple-silicon",
+            "avx512",
+            "claude-code",
+            "cpu-inference"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 156,
+          "createdAt": "2026-10-29T10:17:33Z",
+          "pushedAt": "2026-11-24T16:05:32Z"
+        },
+        {
+          "id": "1466700014",
+          "name": "kurocat",
+          "fullName": "qianyiai/kurocat",
+          "owner": {
+            "username": "qianyiai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/77205788?v=4",
+            "githubUrl": "https://github.com/qianyiai"
+          },
+          "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+          "pitch": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+          "repoUrl": "https://github.com/qianyiai/kurocat",
+          "homepageUrl": "https://qianyi.one/kurocat/",
+          "primaryLanguage": "TypeScript",
+          "stars": 1123,
+          "forks": 170,
+          "openIssues": 44,
+          "licenseName": "MIT License",
+          "tags": [
+            "3d",
+            "ai-companion",
+            "android",
+            "bongo-cat",
+            "bongocat"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 155,
+          "createdAt": "2026-11-21T15:49:31Z",
+          "pushedAt": "2026-11-26T06:17:58Z"
+        },
+        {
+          "id": "1443805845",
+          "name": "xiaotang-daozai",
+          "fullName": "Renly1994/xiaotang-daozai",
+          "owner": {
+            "username": "Renly1994",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/284593714?v=4",
+            "githubUrl": "https://github.com/Renly1994"
+          },
+          "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+          "pitch": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+          "repoUrl": "https://github.com/Renly1994/xiaotang-daozai",
+          "primaryLanguage": "Rust",
+          "stars": 1950,
+          "forks": 310,
+          "openIssues": 46,
+          "licenseName": "MIT License",
+          "tags": [
+            "desktop-widget",
+            "dynamic-island",
+            "egui",
+            "productivity",
+            "rust"
+          ],
+          "category": "top_pick",
+          "categoryLabel": "Top Picks",
+          "curatorScore": 155,
+          "createdAt": "2026-11-03T04:25:22Z",
+          "pushedAt": "2026-11-26T04:40:01Z"
+        }
+      ]
+    },
+    {
+      "id": "ai_ml",
+      "title": "AI & Machine Learning",
+      "description": "Local models, RAG engines, agent frameworks, and LLM utilities.",
+      "repos": [
+        {
+          "id": "1439161577",
+          "name": "zigzag",
+          "fullName": "simpsoka/zigzag",
+          "owner": {
+            "username": "simpsoka",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/704152?v=4",
+            "githubUrl": "https://github.com/simpsoka"
+          },
+          "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+          "pitch": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+          "repoUrl": "https://github.com/simpsoka/zigzag",
+          "homepageUrl": "https://zigzag.diy/",
+          "primaryLanguage": "Rust",
+          "stars": 1148,
+          "forks": 89,
+          "openIssues": 5,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "brother-skitch",
+            "embroidery",
+            "embroidery-digitizing",
+            "embroidery-software",
+            "machine-embroidery"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 151,
+          "createdAt": "2026-10-30T01:53:39Z",
+          "pushedAt": "2026-11-26T04:50:37Z"
+        },
+        {
+          "id": "1451662178",
+          "name": "ste80-humanizer",
+          "fullName": "Dodaios/ste80-humanizer",
+          "owner": {
+            "username": "Dodaios",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/285448159?v=4",
+            "githubUrl": "https://github.com/Dodaios"
+          },
+          "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+          "pitch": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+          "repoUrl": "https://github.com/Dodaios/ste80-humanizer",
+          "homepageUrl": "https://skills.sh/Dodaios/ste80-humanizer",
+          "primaryLanguage": "Python",
+          "stars": 1138,
+          "forks": 81,
+          "openIssues": 1,
+          "licenseName": "MIT License",
+          "tags": [
+            "agent-skills",
+            "ai-writing",
+            "asd-ste100",
+            "claude-code",
+            "claude-skills"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 150,
+          "createdAt": "2026-11-09T17:18:59Z",
+          "pushedAt": "2026-11-24T17:04:48Z"
+        },
+        {
+          "id": "1457509118",
+          "name": "PeakCut",
+          "fullName": "haziqahmedqasmi/PeakCut",
+          "owner": {
+            "username": "haziqahmedqasmi",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/134844667?v=4",
+            "githubUrl": "https://github.com/haziqahmedqasmi"
+          },
+          "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+          "pitch": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+          "repoUrl": "https://github.com/haziqahmedqasmi/PeakCut",
+          "primaryLanguage": "Python",
+          "stars": 1948,
+          "forks": 590,
+          "openIssues": 65,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "ai_ml",
+          "categoryLabel": "AI & Machine Learning",
+          "curatorScore": 149,
+          "createdAt": "2026-11-14T07:38:20Z",
+          "pushedAt": "2026-11-25T23:06:36Z"
+        },
+        {
+          "id": "1445286453",
+          "name": "smolmaxxing",
+          "fullName": "hyperionaidev/smolmaxxing",
+          "owner": {
+            "username": "hyperionaidev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/119872918?v=4",
+            "githubUrl": "https://github.com/hyperionaidev"
+          },
+          "description": "maxxing the ability to run different LLMs on the smallest devices possible",
+          "pitch": "maxxing the ability to run different LLMs on the smallest devices possible",
+          "repoUrl": "https://github.com/hyperionaidev/smolmaxxing",
+          "homepageUrl": "https://hyperion-ai.com/products/smolmaxxing",
+          "primaryLanguage": "C",
+          "stars": 1133,
+          "forks": 71,
+          "openIssues": 2,
+          "licenseName": "MIT License",
+          "tags": [
+            "edge-ai",
+            "llama-cpp",
+            "llama-cpp-alternative",
+            "llm",
+            "local-llm"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 149,
+          "createdAt": "2026-11-04T07:09:41Z",
+          "pushedAt": "2026-11-25T06:48:38Z"
+        },
+        {
+          "id": "1440096236",
+          "name": "trnrt",
+          "fullName": "RunanywhereAI/trnrt",
+          "owner": {
+            "username": "RunanywhereAI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/220821781?v=4",
+            "githubUrl": "https://github.com/RunanywhereAI"
+          },
+          "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+          "pitch": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+          "repoUrl": "https://github.com/RunanywhereAI/trnrt",
+          "homepageUrl": "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels",
+          "primaryLanguage": "Python",
+          "stars": 1661,
+          "forks": 29,
+          "openIssues": 12,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "aws",
+            "glm",
+            "inference",
+            "llm",
+            "llm-serving"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 148,
+          "createdAt": "2026-10-30T18:30:04Z",
+          "pushedAt": "2026-11-25T09:45:45Z"
+        },
+        {
+          "id": "1465322684",
+          "name": "songe",
+          "fullName": "sous-labs/songe",
+          "owner": {
+            "username": "sous-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/355131544?v=4",
+            "githubUrl": "https://github.com/sous-labs"
+          },
+          "description": "A training engine for your local model, using your idle compute",
+          "pitch": "A training engine for your local model, using your idle compute",
+          "repoUrl": "https://github.com/sous-labs/songe",
+          "homepageUrl": "https://souslabs.ai/songe",
+          "primaryLanguage": "Python",
+          "stars": 879,
+          "forks": 71,
+          "openIssues": 32,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "coding-agents",
+            "distillation",
+            "fine-tuning",
+            "llm",
+            "local-llm"
+          ],
+          "category": "ai_ml",
+          "categoryLabel": "Featured",
+          "curatorScore": 146,
+          "createdAt": "2026-11-20T11:01:20Z",
+          "pushedAt": "2026-11-26T05:03:22Z"
+        }
+      ]
+    },
+    {
+      "id": "devtools_cli",
+      "title": "DevTools & Systems",
+      "description": "Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.",
+      "repos": [
+        {
+          "id": "1467519193",
+          "name": "nospeaker",
+          "fullName": "os6/nospeaker",
+          "owner": {
+            "username": "os6",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/239950?v=4",
+            "githubUrl": "https://github.com/os6"
+          },
+          "description": "make your macbook's trackpad talk using its haptic motor",
+          "pitch": "make your macbook's trackpad talk using its haptic motor",
+          "repoUrl": "https://github.com/os6/nospeaker",
+          "homepageUrl": "https://x.com/codycollier",
+          "primaryLanguage": "Swift",
+          "stars": 1906,
+          "forks": 100,
+          "openIssues": 19,
+          "licenseName": "MIT License",
+          "tags": [
+            "haptics",
+            "macos",
+            "swift",
+            "trackpad"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 155,
+          "createdAt": "2026-11-22T12:05:54Z",
+          "pushedAt": "2026-11-24T02:43:05Z"
+        },
+        {
+          "id": "1460834967",
+          "name": "obsidian-prism",
+          "fullName": "RMvdesi/obsidian-prism",
+          "owner": {
+            "username": "RMvdesi",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/42763205?v=4",
+            "githubUrl": "https://github.com/RMvdesi"
+          },
+          "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+          "pitch": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+          "repoUrl": "https://github.com/RMvdesi/obsidian-prism",
+          "homepageUrl": "https://github.com/RMvdesi/obsidian-prism#readme",
+          "primaryLanguage": "JavaScript",
+          "stars": 1310,
+          "forks": 50,
+          "openIssues": 31,
+          "licenseName": "GNU General Public License v3.0",
+          "tags": [
+            "antigravity",
+            "desktop-customization",
+            "developer-tools",
+            "gplv3",
+            "optical-ui"
+          ],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 149,
+          "createdAt": "2026-11-17T02:50:21Z",
+          "pushedAt": "2026-11-26T02:04:56Z"
+        },
+        {
+          "id": "1451554320",
+          "name": "mkw-recomp",
+          "fullName": "adriadam10/mkw-recomp",
+          "owner": {
+            "username": "adriadam10",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57327458?v=4",
+            "githubUrl": "https://github.com/adriadam10"
+          },
+          "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+          "pitch": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+          "repoUrl": "https://github.com/adriadam10/mkw-recomp",
+          "homepageUrl": "https://discord.gg/8uYBkjQkEg",
+          "primaryLanguage": "C",
+          "stars": 1814,
+          "forks": 136,
+          "openIssues": 260,
+          "licenseName": "MIT License",
+          "tags": [],
+          "category": "devtools_cli",
+          "categoryLabel": "DevTools & Systems",
+          "curatorScore": 149,
+          "createdAt": "2026-11-09T15:40:06Z",
+          "pushedAt": "2026-11-25T16:34:44Z"
+        }
+      ]
+    },
+    {
+      "id": "web_fullstack",
+      "title": "Web & Fullstack",
+      "description": "Modern UI components, web frameworks, and backend services.",
+      "repos": [
+        {
+          "id": "1465728637",
+          "name": "Xbox2Windows",
+          "fullName": "R0Y00/Xbox2Windows",
+          "owner": {
+            "username": "R0Y00",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/128987794?v=4",
+            "githubUrl": "https://github.com/R0Y00"
+          },
+          "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+          "pitch": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+          "repoUrl": "https://github.com/R0Y00/Xbox2Windows",
+          "primaryLanguage": "Python",
+          "stars": 1959,
+          "forks": 231,
+          "openIssues": 165,
+          "licenseName": "MIT License",
+          "tags": [
+            "d3d12",
+            "directx-raytracing",
+            "scarlett",
+            "static-recompilation",
+            "windows"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 153,
+          "createdAt": "2026-11-20T17:43:52Z",
+          "pushedAt": "2026-11-26T06:15:44Z"
+        },
+        {
+          "id": "1456823826",
+          "name": "Jiumi",
+          "fullName": "ybblab/Jiumi",
+          "owner": {
+            "username": "ybblab",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/178346659?v=4",
+            "githubUrl": "https://github.com/ybblab"
+          },
+          "description": "揪咪 Jiumi：开源安卓应用行为监测与管理 App，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
+          "pitch": "揪咪 Jiumi：开源安卓应用行为监测与管理 App，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
+          "repoUrl": "https://github.com/ybblab/Jiumi",
+          "homepageUrl": "https://jiumi.ybblab.com",
+          "primaryLanguage": "Kotlin",
+          "stars": 1587,
+          "forks": 74,
+          "openIssues": 7,
+          "licenseName": "Apache License 2.0",
+          "tags": [
+            "android",
+            "android-app",
+            "app-management",
+            "app-monitoring",
+            "appops"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 153,
+          "createdAt": "2026-11-13T16:20:27Z",
+          "pushedAt": "2026-11-25T04:10:13Z"
+        },
+        {
+          "id": "1450792839",
+          "name": "panel",
+          "fullName": "serveroshq/panel",
+          "owner": {
+            "username": "serveroshq",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/300786045?v=4",
+            "githubUrl": "https://github.com/serveroshq"
+          },
+          "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+          "pitch": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+          "repoUrl": "https://github.com/serveroshq/panel",
+          "homepageUrl": "https://serveros.com",
+          "primaryLanguage": "PHP",
+          "stars": 1211,
+          "forks": 118,
+          "openIssues": 17,
+          "licenseName": "GNU Affero General Public License v3.0",
+          "tags": [
+            "agpl",
+            "control-panel",
+            "devops",
+            "laravel",
+            "open-source"
+          ],
+          "category": "web_fullstack",
+          "categoryLabel": "Web & Fullstack",
+          "curatorScore": 153,
+          "createdAt": "2026-11-09T00:47:33Z",
+          "pushedAt": "2026-11-26T05:07:39Z"
+        }
+      ]
+    },
+    {
+      "id": "hidden_gem",
+      "title": "Hidden Gems",
+      "description": "Early-stage repos (< 250 stars) with exceptional engineering and novelty.",
+      "repos": []
+    }
+  ]
+}
