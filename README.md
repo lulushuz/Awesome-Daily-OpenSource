@@ -14,61 +14,61 @@
 
 ---
 
-## Today's Top 15 Repositories (2026-11-26)
+## Today's Top 15 Repositories (2026-11-27)
 
 ### Top Picks
 *The fastest-accelerating, highest-impact open-source tools of the day.*
 
-- [**synchopate/llama-modchip**](https://github.com/synchopate/llama-modchip) — Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.
-  `Python` · `1.4k stars` · `137 forks` · `Apache 2.0` · *#ai-agents #apple-silicon #avx512*
+- [**qianyiai/KuroCat**](https://github.com/qianyiai/KuroCat) — KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣
+  `TypeScript` · `1.5k stars` · `213 forks` · `MIT` · *#3d #ai-companion #android*
 
-- [**qianyiai/kurocat**](https://github.com/qianyiai/kurocat) — KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣
-  `TypeScript` · `1.1k stars` · `170 forks` · `MIT` · *#3d #ai-companion #android*
+- [**livliv-dev/player**](https://github.com/livliv-dev/player) — A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
+  `TypeScript` · `1.6k stars` · `169 forks` · `Apache 2.0` · *#avatar #character #face-tracking*
 
-- [**Renly1994/xiaotang-daozai**](https://github.com/Renly1994/xiaotang-daozai) — 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。
-  `Rust` · `1.9k stars` · `310 forks` · `MIT` · *#desktop-widget #dynamic-island #egui*
+- [**DEEIX-AI/Winc**](https://github.com/DEEIX-AI/Winc) — Winc is a desktop editor built with Rust and its own rendering engine. It starts in about a tenth of a second, stays light with large files open, and responds to every keystroke and scroll at once.
+  `Rust` · `1.4k stars` · `162 forks` · `Apache 2.0` · *#editor #git #ide*
 
 ### AI & Machine Learning
 *Local models, RAG engines, agent frameworks, and LLM utilities.*
 
+- [**alesha-pro/llm.asm**](https://github.com/alesha-pro/llm.asm) — Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.
+  `Assembly` · `1.7k stars` · `256 forks` · `MIT` · *#assembly #avx2 #bare-metal*
+
 - [**simpsoka/zigzag**](https://github.com/simpsoka/zigzag) — Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.
-  `Rust` · `1.1k stars` · `89 forks` · `Apache 2.0` · *#brother-skitch #embroidery #embroidery-digitizing*
+  `Rust` · `1.2k stars` · `90 forks` · `Apache 2.0` · *#brother-skitch #embroidery #embroidery-digitizing*
 
-- [**Dodaios/ste80-humanizer**](https://github.com/Dodaios/ste80-humanizer) — STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
-  `Python` · `1.1k stars` · `81 forks` · `MIT` · *#agent-skills #ai-writing #asd-ste100*
-
-- [**haziqahmedqasmi/PeakCut**](https://github.com/haziqahmedqasmi/PeakCut) — AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
-  `Python` · `1.9k stars` · `590 forks` · `MIT`
+- [**opensetlabs/openset-llm**](https://github.com/opensetlabs/openset-llm) — Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.
+  `C++` · `1.8k stars` · `177 forks` · `MIT` · *#ai #avx512 #cpu-inference*
 
 - [**hyperionaidev/smolmaxxing**](https://github.com/hyperionaidev/smolmaxxing) — maxxing the ability to run different LLMs on the smallest devices possible
-  `C` · `1.1k stars` · `71 forks` · `MIT` · *#edge-ai #llama-cpp #llama-cpp-alternative*
+  `C` · `1.1k stars` · `74 forks` · `MIT` · *#edge-ai #llama-cpp #llama-cpp-alternative*
+
+- [**haziqahmedqasmi/PeakCut**](https://github.com/haziqahmedqasmi/PeakCut) — AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
+  `Python` · `2k stars` · `596 forks` · `MIT`
 
 - [**RunanywhereAI/trnrt**](https://github.com/RunanywhereAI/trnrt) — The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.
   `Python` · `1.7k stars` · `29 forks` · `Apache 2.0` · *#aws #glm #inference*
 
-- [**sous-labs/songe**](https://github.com/sous-labs/songe) — A training engine for your local model, using your idle compute
-  `Python` · `879 stars` · `71 forks` · `Apache 2.0` · *#coding-agents #distillation #fine-tuning*
-
 ### DevTools & Systems
 *Lightweight CLI, compilers, databases, and infra in Rust, Go, Zig & C.*
 
-- [**os6/nospeaker**](https://github.com/os6/nospeaker) — make your macbook's trackpad talk using its haptic motor
-  `Swift` · `1.9k stars` · `100 forks` · `MIT` · *#haptics #macos #swift*
-
-- [**RMvdesi/obsidian-prism**](https://github.com/RMvdesi/obsidian-prism) — Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)
-  `JavaScript` · `1.3k stars` · `50 forks` · `GNU General Public v3.0` · *#antigravity #desktop-customization #developer-tools*
+- [**avatarmanz/VIctory-7900XTX**](https://github.com/avatarmanz/VIctory-7900XTX) — Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.
+  `Rust` · `1.9k stars` · `610 forks` · `GNU General Public v3.0`
 
 - [**adriadam10/mkw-recomp**](https://github.com/adriadam10/mkw-recomp) — Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program
-  `C` · `1.8k stars` · `136 forks` · `MIT`
+  `C` · `1.8k stars` · `138 forks` · `MIT`
+
+- [**pithings/unkernel**](https://github.com/pithings/unkernel) — A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+  `TypeScript` · `2k stars` · `112 forks` · `GNU General Public v2.0`
 
 ### Web & Fullstack
 *Modern UI components, web frameworks, and backend services.*
 
-- [**R0Y00/Xbox2Windows**](https://github.com/R0Y00/Xbox2Windows) — Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
-  `Python` · `2k stars` · `231 forks` · `MIT` · *#d3d12 #directx-raytracing #scarlett*
-
 - [**ybblab/Jiumi**](https://github.com/ybblab/Jiumi) — 揪咪 Jiumi：开源安卓应用行为监测与管理 App，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.
-  `Kotlin` · `1.6k stars` · `74 forks` · `Apache 2.0` · *#android #android-app #app-management*
+  `Kotlin` · `1.7k stars` · `75 forks` · `Apache 2.0` · *#android #android-app #app-management*
+
+- [**R0Y00/Xbox2Windows**](https://github.com/R0Y00/Xbox2Windows) — Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
+  `Python` · `2k stars` · `236 forks` · `MIT` · *#d3d12 #directx-raytracing #scarlett*
 
 - [**serveroshq/panel**](https://github.com/serveroshq/panel) — The open source ServerOS panel: one place to run the Linux servers you already own.
   `PHP` · `1.2k stars` · `118 forks` · `GNU Affero General Public v3.0` · *#agpl #control-panel #devops*
@@ -81,7 +81,7 @@ All past selections are permanently preserved under [`archives/`](archives/):
 
 | Year / Month | Reports | Latest Days |
 |:---|:---:|:---|
-| **2026 / 11-November** | 22 | [`2026-11-26`](archives/2026/11-November/2026-11-26.md), [`2026-11-25`](archives/2026/11-November/2026-11-25.md), [`2026-11-24`](archives/2026/11-November/2026-11-24.md), [`2026-11-23`](archives/2026/11-November/2026-11-23.md), [`2026-11-22`](archives/2026/11-November/2026-11-22.md) |
+| **2026 / 11-November** | 23 | [`2026-11-27`](archives/2026/11-November/2026-11-27.md), [`2026-11-26`](archives/2026/11-November/2026-11-26.md), [`2026-11-25`](archives/2026/11-November/2026-11-25.md), [`2026-11-24`](archives/2026/11-November/2026-11-24.md), [`2026-11-23`](archives/2026/11-November/2026-11-23.md) |
 
 ## Evaluation Criteria
 
